@@ -1,0 +1,3713 @@
+[{
+	"objectID": "b9f3d46a-75d6-11e7-8e5a-06d1fc844de3",
+	"clientTag": "NM",
+	"publicId": "b9f3d46a-75d6-11e7-8e5a-06d1fc844de3",
+	"name": "Neiman Marcus Japan",
+	"tag": "NM_JP_ONLINE",
+	"fqdn": "https://nm-pp-tst.bpc-aws.com",
+	"territoryCode": "JPN",
+	"territoryName": "Japan",
+	"territory": {
+		"countryCode": "JP",
+		"name": "Japan",
+		"displayName": "日本",
+		"regions": [{
+			"code": "JP-01",
+			"name": "Hokkaido",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_01"
+		}, {
+			"code": "JP-02",
+			"name": "Aomori",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_02"
+		}, {
+			"code": "JP-03",
+			"name": "Iwate",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_03"
+		}, {
+			"code": "JP-04",
+			"name": "Miyagi",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_04"
+		}, {
+			"code": "JP-05",
+			"name": "Akita",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_05"
+		}, {
+			"code": "JP-06",
+			"name": "Yamagata",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_06"
+		}, {
+			"code": "JP-07",
+			"name": "Fukushima",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_07"
+		}, {
+			"code": "JP-08",
+			"name": "Ibaraki",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_08"
+		}, {
+			"code": "JP-09",
+			"name": "Tochigi",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_09"
+		}, {
+			"code": "JP-10",
+			"name": "Gunma",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_10"
+		}, {
+			"code": "JP-11",
+			"name": "Saitama",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_11"
+		}, {
+			"code": "JP-12",
+			"name": "Chiba",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_12"
+		}, {
+			"code": "JP-13",
+			"name": "Tokyo",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_13"
+		}, {
+			"code": "JP-14",
+			"name": "Kanagawa",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_14"
+		}, {
+			"code": "JP-15",
+			"name": "Niigata",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_15"
+		}, {
+			"code": "JP-16",
+			"name": "Toyama",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_16"
+		}, {
+			"code": "JP-17",
+			"name": "Ishikawa",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_17"
+		}, {
+			"code": "JP-18",
+			"name": "Fukui",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_18"
+		}, {
+			"code": "JP-19",
+			"name": "Yamanashi",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_19"
+		}, {
+			"code": "JP-20",
+			"name": "Nagano",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_20"
+		}, {
+			"code": "JP-21",
+			"name": "Gifu",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_21"
+		}, {
+			"code": "JP-22",
+			"name": "Shizuoka",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_22"
+		}, {
+			"code": "JP-23",
+			"name": "Aichi",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_23"
+		}, {
+			"code": "JP-24",
+			"name": "Mie",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_24"
+		}, {
+			"code": "JP-25",
+			"name": "Shiga",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_25"
+		}, {
+			"code": "JP-26",
+			"name": "Kyoto",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_26"
+		}, {
+			"code": "JP-27",
+			"name": "Osaka",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_27"
+		}, {
+			"code": "JP-28",
+			"name": "Hyogo",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_28"
+		}, {
+			"code": "JP-29",
+			"name": "Nara",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_29"
+		}, {
+			"code": "JP-30",
+			"name": "Wakayama",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_30"
+		}, {
+			"code": "JP-31",
+			"name": "Tottori",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_31"
+		}, {
+			"code": "JP-32",
+			"name": "Shimane",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_32"
+		}, {
+			"code": "JP-33",
+			"name": "Okayama",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_33"
+		}, {
+			"code": "JP-34",
+			"name": "Hiroshima",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_34"
+		}, {
+			"code": "JP-35",
+			"name": "Yamaguchi",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_35"
+		}, {
+			"code": "JP-36",
+			"name": "Tokushima",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_36"
+		}, {
+			"code": "JP-37",
+			"name": "Kagawa",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_37"
+		}, {
+			"code": "JP-38",
+			"name": "Ehime",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_38"
+		}, {
+			"code": "JP-39",
+			"name": "Kochi",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_39"
+		}, {
+			"code": "JP-40",
+			"name": "Fukuoka",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_40"
+		}, {
+			"code": "JP-41",
+			"name": "Saga",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_41"
+		}, {
+			"code": "JP-42",
+			"name": "Nagasaki",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_42"
+		}, {
+			"code": "JP-43",
+			"name": "Kumamoto",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_43"
+		}, {
+			"code": "JP-44",
+			"name": "Oita",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_44"
+		}, {
+			"code": "JP-45",
+			"name": "Miyazaki",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_45"
+		}, {
+			"code": "JP-46",
+			"name": "Kagoshima",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_46"
+		}, {
+			"code": "JP-47",
+			"name": "Okinawa",
+			"category": "prefecture",
+			"resourceId": "WEB.ORG.REGION.JP_47"
+		}],
+		"id": 85,
+		"code": "JPN"
+	},
+	"languages": {
+		"ja": {
+			"id": "ja",
+			"name": "Japanese",
+			"countryCode": "JP",
+			"displayName": "日本語"
+		},
+		"en": {
+			"id": "en",
+			"name": "English",
+			"countryCode": "US",
+			"displayName": "English"
+		}
+	},
+	"indices": {
+		"ja": "tst-offerings-NM_JP_ONLINE-ja",
+		"en": "tst-offerings-NM_JP_ONLINE-en"
+	},
+	"properties": {
+		"BASE_FOLDER": "",
+		"CURRENCY_SYMBOL": "¥",
+		"PUBLICID": "b9f3d46a-75d6-11e7-8e5a-06d1fc844de3",
+		"ACCOUNTNUMBER": "11513796",
+		"HOSTING_REGION": "eu-west-1",
+		"LOGO": "https://i.bpc-aws.com/img/neimanmarcus/resources/JP.png",
+		"REFERENCE_PREFIX": "NMJP",
+		"DEFAULT_PAYMENT_SERVICE": "ADYEN",
+		"CARRIERURL": "https://www.fedex.com/",
+		"CURRENCY_CODE": "JPY",
+		"PRICE_DECIMALS": "2",
+		"CARRIER": "Fedex",
+		"FILTERS_ENABLED": ["BRAND", "SIZE", "COLOR", "PRICE"],
+		"STATUSTRACKINGURL": "https://nm-pp-tst.bpc-aws.com/order/",
+		"PAYPAL_CREDIT_FINANCING_RATE": "1",
+		"DEFAULT_LANGUAGE": "ja",
+		"PAYMENTGATEWAY": "True",
+		"TIME_ZONE": "Asia/Tokyo",
+		"PAYPAL_CREDIT_THRESHOLD": "250",
+		"AVAILABLE_LANGUAGES": ["en", "ja"],
+		"PRICING_STRATEGY": "ALL_INCLUSIVE",
+		"CHECKFQDN": "false",
+		"PAYPAL_CREDIT_MAX_INSTALMENTS": "24",
+		"CURRENCY_NAME": "Japan Yen",
+		"COUNTRY_SHORT_CODE": "JP",
+		"ACCOUNTNAME": "Desilacol JP",
+		"IMPL_FQDN": "https://nm-pp-tst.int-bpc-aws/apac/ws",
+		"CURRENCY_FORMAT": "0,0",
+		"IMG_BASE_URL": "https://i.bpc-aws.com",
+		"SORTCODE": "40-32-19",
+		"FQDN": "https://nm-pp-tst.bpc-aws.com",
+		"DELIVERY_CODE": "DEL-STANDARD",
+		"ORDER_NO_ALGORITHM": "LOCALISED_STD",
+		"POSTCODE_VAL_REGEXP": "^(([0-9]){7}|([0-9]{3}-[0-9]{4}))$",
+		"COUNTRY_CODE": "JPN",
+		"DEFAULTDELIVERY": "6ca9cc52-d425-4655-a38e-ea91eb236faf"
+	},
+	"translations": {
+		"ja": {
+			"LANGUAGE": {
+				"SELECT": {
+					"CONTENT": {
+						"LABEL": "あなたの言語を選択してください："
+					}
+				}
+			},
+			"SITE": {
+				"LOCALE": {
+					"SWITCHER": {
+						"APPLY": "適用",
+						"TITLE": "あなたの国を選択",
+						"DESCRIPTION ": "私たちは現在以下の国に出荷しています"
+					}
+				},
+				"SELECT": {
+					"CONTENT": {
+						"LABEL": "国を選択："
+					}
+				}
+			},
+			"WEB": {
+				"LISTING": {
+					"TITLE": "Hello World!"
+				},
+				"PAYMENT": {
+					"CARDNAME": "カード所有者名",
+					"VALIDATION": {
+						"CVC": "情報が正しくありませんな詳細",
+						"EXPYEAR": "情報が正しくありません",
+						"CARDNUMBER": "入力された詳細情報は正しくありません。もう一度ご確認ください。",
+						"CARDNAME": "入力された詳細情報は正しくありません。もう一度ご確認ください。",
+						"EXPMONTH": "情報が正しくありません"
+					},
+					"PAY": {
+						"PP": "でのお支払い",
+						"PAYPAL": "でのお支払い",
+						"REVIEW": "REVIEW AND CONFIRM",
+						"CARD": "クレジットカード/デビットカードでのお支払い"
+					},
+					"INFO": {
+						"NEXT": "次のページで注文の詳細をご覧いただけます。次のページにて注文を確定させるまでは、請求は行われません。"
+					},
+					"CTA": "注文の確定",
+					"CVC": "セキュリティコード",
+					"SELECTTYPE": "支払い方法を選択",
+					"EXPYEAR": "有効期限 (年)",
+					"CARDNUMBER": "クレジットカード番号",
+					"ADDRESS": {
+						"SAME": "配送先住所と同じ住所を請求先住所にする",
+						"NEW": "新しい住所を使用する",
+						"BILLING": {
+							"TITLE": "請求先住所"
+						}
+					},
+					"EXPMONTH": "有効期限 (月)",
+					"LINK": {
+						"BACK": "配送オプションへ戻る"
+					},
+					"TITLE": "支払いの詳細"
+				},
+				"ORG": {
+					"REGION": {
+						"JP_10": "群馬県",
+						"JP_32": "島根県",
+						"JP_11": "埼玉県",
+						"JP_33": "岡山県",
+						"JP_12": "千葉県",
+						"JP_34": "広島県",
+						"JP_13": "東京都",
+						"JP_35": "山口県",
+						"JP_14": "神奈川県",
+						"JP_36": "徳島県",
+						"JP_15": "新潟県",
+						"JP_37": "香川県",
+						"JP_16": "富山県",
+						"JP_38": "愛媛県",
+						"JP_17": "石川県",
+						"JP_39": "高知県",
+						"JP_30": "和歌山県",
+						"JP_31": "鳥取県",
+						"JP_07": "福島県",
+						"JP_29": "奈良県",
+						"JP_08": "茨城県",
+						"JP_09": "栃木県",
+						"JP_21": "岐阜県",
+						"JP_43": "熊本県",
+						"JP_22": "静岡県",
+						"JP_44": "大分県",
+						"JP_01": "北海道",
+						"JP_23": "愛知県",
+						"JP_45": "宮崎県",
+						"JP_02": "青森県",
+						"JP_24": "三重県",
+						"JP_46": "鹿児島県",
+						"JP_03": "岩手県",
+						"JP_25": "滋賀県",
+						"JP_47": "沖縄県",
+						"JP_04": "宮城県",
+						"JP_26": "京都府",
+						"JP_05": "秋田県",
+						"JP_27": "大阪府",
+						"JP_06": "山形県",
+						"JP_28": "兵庫県",
+						"JP_40": "福岡県",
+						"JP_41": "佐賀県",
+						"JP_20": "長野県",
+						"JP_42": "長崎県",
+						"JP_18": "福井県",
+						"JP_19": "山梨県"
+					}
+				},
+				"CHECKOUT": {
+					"HELP": {
+						"HOURS": "営業時間: 月-金 8:00～18:00",
+						"PHONE": {},
+						"RETURNS": {
+							"TITLE": "返品"
+						},
+						"ORTEXT": "または",
+						"TITLE": "ヘルプが必要ですか？",
+						"EMAIL": "<b>Eメール</b>: <u>jpsupport@neimanmarcus.com</u>",
+						"SHIPPING": {
+							"TITLE": "送料"
+						}
+					},
+					"PAYMENT": {
+						"ERROR": {
+							"TITLE": "申し訳ございません。お客様のお支払い手続きを完了できませんでした。",
+							"DESC": "支払いの詳細を確認して、もう一度お試しください。または、別の支払い方法でお試しください。問題が改善しない場合は、銀行にお確かめください。"
+						}
+					},
+					"DESCRIPTION": "説明",
+					"FORM": {
+						"CONSUMER": {
+							"DESCRIPTION": "あなたの注文について連絡のとれるEメールアドレスまたは電話番号を入力してください。",
+							"TITLE": "連絡先"
+						}
+					},
+					"STEP": {
+						"PAYMENT": "支払い",
+						"REVIEW": "確認",
+						"BASKET": "ショッピングバッグ",
+						"SHIPPING": "送料"
+					},
+					"TITLE": "チェックアウト",
+					"BASKET": {
+						"LIST": {
+							"ITEM": "商品:",
+							"PRICE": "価格:",
+							"DESCRIPTION": "商品",
+							"PICTURE": "画像",
+							"QUANTITY": "数量",
+							"COLOR": "色:",
+							"SIZE": "サイズ:",
+							"TITLE": "ショッピングバッグ概要",
+							"SIZETYPE": "サイズの種類:"
+						}
+					},
+					"SHIPPING": {
+						"MARKETING": {
+							"OPTIN": "Send me information about exclusive promotions and events. See our Privacy Policy"
+						},
+						"EMAILCONFIRM": {
+							"REQUIRED": "メールアドレスの入力が必要です。",
+							"VALIDATION": "メールアドレスが正しい形式で入力されていません。",
+							"TEXT": "CONFIRM EMAIL ADDRESS"
+						}
+					},
+					"STEPPER": {
+						"STEP1": "送料",
+						"STEP2": "支払い",
+						"STEP3": "確認"
+					}
+				},
+				"THANKYOU": {
+					"TITLE": "ご購入ありがとうございます"
+				},
+				"SHIPPING": {
+					"PHONETICLASTNAME": {
+						"ITEM": "セイ(フリガナ)",
+						"VER": "セイ(フリガナ)は必須です。",
+						"PLACEHOLDER": "YAMADA"
+					},
+					"TELEPHONE": {
+						"VAL": "電話番号が正しい形式で入力されていません。",
+						"ITEM": "電話番号",
+						"VER": "電話番号の入力が必要です。"
+					},
+					"ISCOMPANY": {
+						"ITEM": "会社の住所ですか？"
+					},
+					"POSTAL": {
+						"VAL": "郵便番号が正しい形式で入力されていません。",
+						"ITEM": "郵便番号",
+						"VER": "郵便番号の入力が必要です。",
+						"PLACEHOLDER": "171-0031"
+					},
+					"STATECHOOSE": {
+						"ITEM": "都道府県を選択"
+					},
+					"STATE": {
+						"VAL": "県の形式は間違っている。",
+						"ITEM": "都道府県",
+						"VER": "県が必要です。",
+						"PLACEHOLDER": "東京都"
+					},
+					"FIRSTNAME": {
+						"VAL": "名が正しい形式で入力されていません。",
+						"ITEM": "名",
+						"VER": "名の入力が必要です。",
+						"PLACEHOLDER": "太郎"
+					},
+					"EMAIL": {
+						"VAL": "電子メールアドレスの形式が正しくありません。",
+						"ITEM": "Eメールアドレス",
+						"VER": "メールアドレスの入力が必要です。",
+						"COMPARE": {
+							"VER": "Email addresses do not match."
+						},
+						"PLACEHOLDER": "taro@example.com"
+					},
+					"CTA": "注文を確定する",
+					"OPT": {
+						"CTA": "支払いへ",
+						"RETURN": "発送の詳細に戻る",
+						"STD": {
+							"TITLE": "スタンダード",
+							"DESC": "通常配達 - {{price, price+free}} ({{min}}-{{max}} 営業日)"
+						},
+						"TITLE": "配送オプション",
+						"EXP": {
+							"TITLE": "速達",
+							"DESC": "速達便 - {{price, price+free}} ({{min}}-{{max}} 営業日)"
+						}
+					},
+					"CITY": {
+						"VAL": "市が正しい形式で入力されていません。",
+						"ITEM": "市区町村",
+						"VER": "市の入力が必要です。",
+						"PLACEHOLDER": "豊島区"
+					},
+					"COUNTRY": {
+						"ITEM": "COUNTRY"
+					},
+					"LASTNAME": {
+						"VAL": "姓が正しい形式で入力されていません。",
+						"ITEM": "姓",
+						"VER": "姓の入力が必要です。",
+						"PLACEHOLDER": "山田"
+					},
+					"LINK": {
+						"BACK": "発送の詳細に戻る"
+					},
+					"PHONETICFIRSTNAME": {
+						"ITEM": "メイ(フリガナ)",
+						"VER": "メイ(フリガナ)は必須です。",
+						"PLACEHOLDER": "TARO"
+					},
+					"TITLE": "運送",
+					"ADDRESS1": {
+						"VAL": "住所が正しい形式で入力されていません。",
+						"ITEM": "町名番地",
+						"VER": "住所の入力が必要です。",
+						"PLACEHOLDER": "目白1-3-17"
+					},
+					"ADDRESS2": {
+						"ITEM": "部屋番号",
+						"PLACEHOLDER": "目白ガーデンヒルズc209"
+					}
+				},
+				"ORDERCONF": {
+					"CONTINUE": {
+						"CTA": "/",
+						"TEXT": "新商品を見る"
+					},
+					"ORDERNUM": "注文番号:",
+					"ORDERDATE": "注文日:",
+					"NEXT": {
+						"TITLE": "何が起きていますか？",
+						"DESC": "購入内容の詳細を記した注文確認メールが送られます。<br />ご請求は、ご注文の商品が発送されたときに、Localised, Inc.から行います。"
+					},
+					"TRACKING": "注文の追跡",
+					"THANKYOU": "ご注文ありがとうございます",
+					"TITLE": "注文が確定しました",
+					"THANK": "ご注文ありがとうございます"
+				},
+				"PLP": {
+					"RECENTLYVIEWED": {
+						"DESCRIPTION": "おすすめ",
+						"TITLE": "最近見た商品"
+					},
+					"FILTER": {
+						"NOTAVAILABLE": {
+							"TEXT": "利用可能なフィルタはありません"
+						},
+						"CLEARALL": {
+							"CTA": "すべて消去"
+						},
+						"PRICE": {
+							"VALIDATIONMAX": "合計は{{price}}以上には出来ません。",
+							"VALIDATIONMIN": "合計は{{price}}以下には出来ません。",
+							"TITLE": "価格"
+						},
+						"COLOR": {
+							"RED": "レッド",
+							"WHITE": "ホワイト",
+							"BLUE": "ブルー",
+							"LABEL": "色",
+							"BLACK": "ブラック",
+							"TITLE": "色"
+						},
+						"APPLY": {
+							"CTA": "決定"
+						},
+						"SIZE": {
+							"TITLE": "サイズ"
+						},
+						"CLEAR": {
+							"CTA": "クリア"
+						},
+						"BRAND": {
+							"TITLE": "ブランド"
+						}
+					},
+					"LISTINGPAGINATION": {
+						"TEXT": {}
+					},
+					"FILTERTYPE": {
+						"PRICE": "価格",
+						"COLOR": "色",
+						"LENGTH": "長さ",
+						"SIZE": "サイズ",
+						"WIDTH": "幅",
+						"BRAND": "デザイナー"
+					},
+					"VERTICAL": {
+						"COATS": "コート＆ジャケット",
+						"SUB": "サブカテゴリー",
+						"ACTIVE": "カジュアルウェア",
+						"SHIRTS": "シャツ",
+						"SHORTS": "ショーツ",
+						"LOUNGE": "部屋着",
+						"SWEATERS": "セーター",
+						"DRESSES": "ドレス",
+						"SWIM": "スイム",
+						"CLOTHING": "ファッション",
+						"TOPS": "トップス",
+						"PANTS": "パンツ",
+						"ACCESSORIES": "アクセサリー",
+						"SHOES": "シューズ",
+						"JEWELRY": "ジュエリー",
+						"SUITS": "スーツ＆スポーツコート"
+					},
+					"TOGGLE": {
+						"SORTBYPRICEDESC": {
+							"TEXT": "価格 (高-低)"
+						},
+						"SORTBY": {
+							"MAINPRODUCTCOLOR": "色",
+							"PRICEINDEX": "価格",
+							"MAINPRODUCTTYPE": "タイプ",
+							"TEXT": "並べ替え",
+							"MANUFACTURER": "メーカー",
+							"MAINPRODUCTVANITYCOLOR": "ヴァニティカラー",
+							"NAME": "名前"
+						},
+						"NEWEST": {
+							"TEXT": "最新"
+						},
+						"SORTBYPRICEASC": {
+							"TEXT": "価格 (低-高)"
+						}
+					},
+					"FILTERS": {
+						"TITLE": "フィルター"
+					},
+					"BANNERBOT": {
+						"CTA": {
+							"TITLE": "今すぐ購入"
+						},
+						"WOMEN": {
+							"CTA": {
+								"TITLE": "今すぐ購入"
+							},
+							"TITLE": "レディースシューズ",
+							"SUBTITLE": "今シーズンのコレクションを発見する"
+						},
+						"MEN": {
+							"CTA": {
+								"TEXT": "今すぐ購入"
+							},
+							"TITLE": "新しい秋のブーツコレクション",
+							"SUBTITLE": "Kick up a storm."
+						},
+						"TITLE": "新しい秋のブーツコレクション",
+						"WOMENSUB": {
+							"CTA": {
+								"TEXT": "今すぐ購入"
+							},
+							"TITLE": "レディースシューズ",
+							"SUBTITLE": "今シーズンのコレクションを発見する"
+						},
+						"MENSUB": {
+							"CTA": {
+								"TITLE": "今すぐ購入"
+							},
+							"TITLE": "新しい秋のブーツコレクション",
+							"SUBTITLE": "Kick up a storm."
+						},
+						"SUBTITLE": "Kick up a storm."
+					},
+					"PAGINATION": {
+						"RESULTS": "結果",
+						"OUTOF": "の",
+						"PAGE": "ページ",
+						"VIEW": "見る"
+					},
+					"BANNERTOP": {
+						"WOMEN": {
+							"TITLE": "ドレス",
+							"SUBTITLE": "今のトレンドは何ですか"
+						},
+						"MEN": {
+							"TITLE": "コート＆ジャケット",
+							"SUBTITLE": "天気を最悪にする"
+						},
+						"TITLE": "ドレス",
+						"WOMENSUB": {
+							"TITLE": "ドレス",
+							"SUBTITLE": "今のトレンドは何ですか"
+						},
+						"MENSUB": {
+							"TITLE": "コート＆ジャケット",
+							"SUBTITLE": "天気を最悪にする"
+						},
+						"SUBTITLE": "今のトレンドは何ですか"
+					},
+					"LOOKBOOK": {
+						"TITLE": "本を見て",
+						"SECTION": {
+							"TITLE": "フォーマルウェア",
+							"DESC": "車スぱよゅ権結ニコルム状1香たレが念10相ミ宮勝学イタサ三覚費意以車スぱよゅ権結ニコルム状1香たレが念10相ミ宮勝学イタサ三覚費意以."
+						}
+					}
+				},
+				"PRODUCT": {
+					"TILE": {
+						"DETAILS": "商品詳細",
+						"ADDTOBASKET": "カートへ追加"
+					},
+					"LIST": {
+						"VIEWMORE": "もっと見る"
+					},
+					"DISCOUNT": "{{discount}}%OFF",
+					"OUTOFSTOCK": "在庫切れ"
+				},
+				"HOMEPAGE": {
+					"COLLECTION1": {
+						"SUBTITLE": "バラコレクション"
+					},
+					"SHOPNOW": "今すぐ購入",
+					"SALE": {
+						"DESCRIPTION": "セール最大70％OFF",
+						"TITLE": "セール",
+						"INFO": {
+							"TEXT": "最大70％OFF",
+							"CTA1": {
+								"LINK": "/women/sale/all-sale",
+								"TEXT": "今すぐ購入"
+							}
+						},
+						"SUBTITLE": "最大 70％ オフ"
+					},
+					"SITEMAP": {
+						"TITLE": {}
+					},
+					"MAIN_TITLE": "メインタイトル",
+					"MAINFEATUREPRODUCT1": {
+						"CTA": {
+							"TEXT": "今すぐ購入"
+						},
+						"DESCRIPTION": "のイプサムの嘆きと活力、そのような労働と悲しみ、行うにはいくつかの重要な事柄に座ります",
+						"TITLE": "プロモーション",
+						"SUBTITLE": "セールのブレスレット"
+					},
+					"COLLECTION3": {
+						"SUBTITLE": "ローズコレクション"
+					},
+					"COLLECTIONS": {
+						"IMAGE4": {
+							"PATH": "/images/home/collections/collections-covetable-coats.jpg",
+							"DESCRIPTION": "すべての機会のアウターウェアで寒さを避けてください。",
+							"LINK": "/women/apparel/coats",
+							"TITLE": "貪欲コート"
+						},
+						"DESCRIPTION": "クラシックからコンテンポラリーまで、新しいシーズンの必需品を探求してください。",
+						"IMAGE3": {
+							"PATH": "/images/home/collections/collections-the-man-store.jpg",
+							"DESCRIPTION": "彼が働くために着たいコート",
+							"LINK": "https://nm-pp-tst.bpc-aws.com/men/apparel/coats-and-jackets",
+							"TITLE": "ダウンタイム"
+						},
+						"IMAGE2": {
+							"PATH": "/images/home/collections/collections-stuart-weitzman-build-your-boot.jpg",
+							"DESCRIPTION": "Stuart Weitzmanのブーツ。丈はミッドカーフからオーバーニーまで、全12色。",
+							"LINK": "https://nm-pp-tst.bpc-aws.com/women/designers/featured-designers/stuart-weitzman",
+							"TITLE": "自分だけのブーツを作りましょう。"
+						},
+						"TITLE": "コレクションをご覧ください。",
+						"IMAGE1": {
+							"PATH": "/images/home/collections/collections-new-balmain-bags.jpg",
+							"DESCRIPTION": "Balmainからの最新のバッグ。今すぐ購入。",
+							"LINK": "https://nm-pp-tst.bpc-aws.com/search?q=balmain",
+							"TITLE": "Balmainからの新作"
+						}
+					},
+					"COLLECTION2": {
+						"SUBTITLE": "ROSE COLLECTION"
+					},
+					"MOBILESITEMAP2": {
+						"SUBTITLE8": {
+							"TEXT": "セール",
+							"URL": "/women/sale"
+						},
+						"SUBTITLE2": {
+							"TEXT": "バッグ",
+							"URL": "/women/bags"
+						},
+						"SUBTITLE3": {
+							"TEXT": "ドレス",
+							"URL": "/women/dresses"
+						},
+						"TITLE": {
+							"TEXT": "レディース",
+							"URL": "/women"
+						},
+						"SUBTITLE1": {
+							"TEXT": "シューズ",
+							"URL": "/women/shoes"
+						},
+						"SUBTITLE6": {
+							"TEXT": "コート",
+							"URL": "/women/coats"
+						},
+						"SUBTITLE7": {
+							"TEXT": "トップス",
+							"URL": "/women/tops"
+						},
+						"SUBTITLE4": {
+							"TEXT": "ジュエリー",
+							"URL": "/women/jewelry"
+						},
+						"SUBTITLE5": {
+							"TEXT": "サングラス",
+							"URL": "/women/sunglasses"
+						}
+					},
+					"MOBILESITEMAP1": {
+						"SUBTITLE8": {
+							"TEXT": "セール",
+							"URL": "/men/sale"
+						},
+						"SUBTITLE2": {
+							"TEXT": "バッグ",
+							"URL": "/men/bags"
+						},
+						"SUBTITLE3": {
+							"TEXT": "パンツ",
+							"URL": "/men/pants"
+						},
+						"TITLE": {
+							"TEXT": "メンズ",
+							"URL": "/men"
+						},
+						"SUBTITLE1": {
+							"TEXT": "シューズ",
+							"URL": "/men/shoes"
+						},
+						"SUBTITLE6": {
+							"TEXT": "カジュアルウェア",
+							"URL": "/men/activewear"
+						},
+						"SUBTITLE7": {
+							"TEXT": "ドレスシャツ",
+							"URL": "/men/dress-shirts"
+						},
+						"SUBTITLE4": {
+							"TEXT": "ウォッチ",
+							"URL": "/men/watches"
+						},
+						"SUBTITLE5": {
+							"TEXT": "サングラス",
+							"URL": "/men/sunglasses"
+						}
+					},
+					"PRODUCTIMAGE": {
+						"FALL2017": "2017年秋コレクション",
+						"SECTION3": {
+							"IMAGE": "/images/home/featured/featured-3-swim.jpg",
+							"TEXT1": "ETRO",
+							"TEXT2": "オフショルダーペイズリートップス<br />とシルクショーツ",
+							"LINK": "/search?q=etro"
+						},
+						"SECTION1": {
+							"IMAGE": "/images/home/featured/featured-1-men.jpg",
+							"TEXT1": "新しいメンズコレクション",
+							"TEXT2": "ブルネッロ・クチネッリなど",
+							"LINK": "/men/new-arrivals/all-new-arrivals"
+						},
+						"SECTION2": {
+							"IMAGE": "/images/home/featured/featured-2-louboutin.jpg",
+							"TEXT1": "Christian Louboutin",
+							"TEXT2": "新しい活気のあるLoubitag<br />の落書きによる最新のコレクション",
+							"LINK": "/women/designers/featured-designers/christian-louboutin"
+						},
+						"SHOES": "シューズ",
+						"JACKETS": "ジャケット"
+					},
+					"SITEMAP5": {
+						"LINK1": "/men/accessories/bags-and-wallets",
+						"LINK3": "/men/apparel/jeans",
+						"SUBTITLE2": "コート＆ジャケット",
+						"LINK2": "/men/apparel/coats-and-jackets",
+						"SUBTITLE3": "ジーンズ",
+						"LINK5": "/men/shoes",
+						"MAINLINK1": "/men",
+						"LINK4": "/men/apparel/polos-and-t-shirts",
+						"SUBTITLE1": "バッグ＆ウォレット",
+						"SUBTITLE6": "ウォッチ",
+						"LINK6": "/men/accessories/watches",
+						"SUBTITLE4": "ポロシャツ＆Tシャツ",
+						"SUBTITLE5": "シューズ",
+						"TITLE1": "メンズストア"
+					},
+					"BANNER1": {
+						"CTA": {
+							"TEXT": "今すぐ購入"
+						},
+						"IMAGE": "/images/home/carousel/carousel-1-sale.jpg",
+						"MOBILEIMAGE": "/images/home/carousel/",
+						"LINK": "/women/sale/all-sale",
+						"TITLE": "デザイナーセール",
+						"SUBTITLE": "女性と男性の定価の最大40％割引"
+					},
+					"SITEMAP4": {
+						"LINK1": "/women/accessories/hats",
+						"LINK3": "/women/accessories/scarves-and-wraps",
+						"SUBTITLE2": "ジュエリー",
+						"LINK2": "/women/accessories/jewelry",
+						"SUBTITLE3": "スカーフ＆ラップ",
+						"LINK5": "/women/accessories/wallets-and-wristles",
+						"MAINLINK1": "/women/accessories",
+						"LINK4": "/women/accessories/sunglasses",
+						"SUBTITLE1": "帽子",
+						"SUBTITLE6": "ウォッチ",
+						"LINK6": "/women/accessories/watches",
+						"SUBTITLE4": "サングラス",
+						"SUBTITLE5": "ウォレット",
+						"TITLE1": "アクセサリー"
+					},
+					"SITEMAP3": {
+						"LINK1": "/women/handbags/backpacks",
+						"LINK3": "/women/handbags/hobos",
+						"SUBTITLE2": "クロスボディバッグ",
+						"LINK2": "/women/handbags/crossbody-bags",
+						"SUBTITLE3": "ホーボー",
+						"LINK5": "/women/handbags/shoulder-bags",
+						"MAINLINK1": "/women/handbags",
+						"LINK4": "/women/handbags/satchels",
+						"SUBTITLE1": "バックパック",
+						"SUBTITLE6": "トート",
+						"LINK6": "/women/handbags/totes",
+						"SUBTITLE4": "サッチェル",
+						"SUBTITLE5": "ショルダーバッグ",
+						"TITLE1": "ハンドバッグ"
+					},
+					"BANNER3": {
+						"CTA": {
+							"TEXT": "今すぐ購入"
+						},
+						"IMAGE": "/images/home/carousel/carousel-3-dresses3.jpg",
+						"MOBILEIMAGE": "/images/home/carousel/",
+						"LINK": "/women/apparel/dresses",
+						"TITLE": "魅力的な休日のコーディネイト",
+						"SUBTITLE": "ファッションステートメントを作る"
+					},
+					"SITEMAP2": {
+						"LINK1": "/women/shoes/booties",
+						"LINK3": "/women/shoes/flats-and-loafers",
+						"SUBTITLE2": "ブーツ",
+						"LINK2": "/women/shoes/boots",
+						"SUBTITLE3": "フラット＆ローファー",
+						"LINK5": "/women/shoes/sneakers",
+						"MAINLINK1": "/women/shoes",
+						"LINK4": "/women/shoes/pumps",
+						"SUBTITLE1": "ブーティー",
+						"SUBTITLE6": "ウェッジ",
+						"LINK6": "/women/shoes/wedges",
+						"SUBTITLE4": "パンプス",
+						"SUBTITLE5": "スニーカー",
+						"TITLE1": "シューズ"
+					},
+					"BANNER2": {
+						"CTA": {
+							"TEXT": "今すぐ購入"
+						},
+						"IMAGE": "/images/home/carousel/carousel-2-eileen-fisher.jpg",
+						"MOBILEIMAGE": "/images/home/carousel/",
+						"LINK": "/women/designers/featured-designers/eileen-fisher",
+						"TITLE": "Eileen Fisher",
+						"SUBTITLE": "この冬はあなたを暖かく保つ居心地の良い編み物"
+					},
+					"SITEMAP1": {
+						"LINK1": "/women/apparel/activewear",
+						"LINK3": "/women/apparel/dresses",
+						"SUBTITLE2": "コート",
+						"LINK2": "/women/apparel/coats",
+						"SUBTITLE3": "ドレス",
+						"LINK5": "/women/apparel/sweaters",
+						"MAINLINK1": "/women/apparel",
+						"LINK4": "/women/apparel/jeans",
+						"MAINLINK2": "/women/shoes",
+						"SUBTITLE1": "カジュアルウェア",
+						"SUBTITLE6": "トップス",
+						"LINK6": "/women/apparel/tops",
+						"SUBTITLE4": "ジーンズ",
+						"SUBTITLE5": "セーター",
+						"TITLE1": "アパレル"
+					},
+					"MAINFEATUREPRODUCT2": {
+						"CTA": {
+							"TEXT": "今すぐ購入"
+						},
+						"DESCRIPTION": "のイプサムの嘆きと活力、そのような労働と悲しみ",
+						"TITLE": "プロモーション",
+						"SUBTITLE": "50％ オフ"
+					},
+					"MAINFEATUREPRODUCT": {
+						"CTA": {
+							"TEXT": "今すぐ購入"
+						},
+						"DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.",
+						"TITLE": "プロモーション",
+						"SUBTITLE": "オフアクセサリー60％オフ"
+					},
+					"TST1": "お尻",
+					"FEATURED": {
+						"COLLECTION1": {
+							"PRODUCT2": {
+								"IMAGE": "/images/home/ranking/02-jimmy-choo-boots.jpg",
+								"LINK": "/pdp/jimmy-choo-autumn-velvet-bootie-green-9b-39eu",
+								"TITLE": "Jimmy Choo"
+							},
+							"PRODUCT1": {
+								"IMAGE": "/images/home/ranking/01-self-portrait-black-crepe-dress.jpg",
+								"LINK": "/pdp/selfportrait-asymmetric-belted-fauxwrap-crepe-dress-w-cutouts-black-0",
+								"TITLE": "Self-Portrait"
+							},
+							"PRODUCT4": {
+								"IMAGE": "/images/home/ranking/04-the-row-wool-blend-jacket.jpg",
+								"LINK": "/pdp/the-row-monire-belted-woolblend-jacket-sand-xsmall",
+								"TITLE": "The Row"
+							},
+							"DESCRIPTION": "トップセラー",
+							"PRODUCT3": {
+								"IMAGE": "/images/home/ranking/03-stella-macartney-bag.jpg",
+								"LINK": "/pdp/stella-mccartney-falabella-small-tote-bag-black",
+								"TITLE": "Stella McCartney"
+							},
+							"PRODUCT6": {
+								"IMAGE": "/images/home/ranking/06-wolverine-chelsea-boots.jpg",
+								"LINK": "/pdp/wolverine-montague-1000-mile-chelsea-boot-brown-brown-85d",
+								"TITLE": "Wolverine"
+							},
+							"PRODUCT5": {
+								"IMAGE": "/images/home/ranking/05-manolo-white-pumps.jpg",
+								"LINK": "/pdp/manolo-blahnik-swan-embellished-satin-pump-white-white-41-eu-11b-us",
+								"TITLE": "Manolo Blahnik"
+							},
+							"PRODUCT10": {
+								"IMAGE": "/images/home/ranking/10-fendi-nylon-duffle-bag.jpg",
+								"LINK": "/pdp/fendi-vocabulary-nylon-and-leather-travel-duffle-bag-black",
+								"TITLE": "Fendi"
+							},
+							"PRODUCT8": {
+								"IMAGE": "/images/home/ranking/08-true-religion-western-shirt.jpg",
+								"LINK": "/pdp/true-religion-ryan-western-shirt-eelm-indigo-bleed-3xlarge",
+								"TITLE": "True Religion"
+							},
+							"PRODUCT7": {
+								"IMAGE": "/images/home/ranking/07-moncler-puffer-jacket.jpg",
+								"LINK": "/pdp/moncler-harry-shiny-puffer-jacket-w-removable-hood-black-5",
+								"TITLE": "Moncler"
+							},
+							"TITLE": "売上ランキング",
+							"PRODUCT9": {
+								"IMAGE": "/images/home/ranking/09-buscemi-hightop-leather-sneakers.jpg",
+								"LINK": "/pdp/buscemi-100mm-hightop-leather-sneaker-with-padlock-black-black-11d",
+								"TITLE": "Buscemi"
+							}
+						},
+						"NEW": {
+							"DESCRIPTION": "すべての製品が販売されているため、私たちはACLUに5ドルを寄付することを誇りに思っています",
+							"TITLE": "新 |",
+							"SUBTITLE": "ローズコレクション"
+						},
+						"COLLECTION2": {
+							"DESCRIPTION": "今シーズンのトップデザイナーによる新作",
+							"TITLE": "新着"
+						}
+					}
+				},
+				"LABEL": {
+					"FILTER": {
+						"SIZE": "サイズ",
+						"COLOUR": "色",
+						"BRAND": "価格",
+						"PRIZE": "賞品"
+					}
+				},
+				"BASKET": {
+					"NOTETITLE": "ご注意ください:",
+					"PRICE": "価格",
+					"PICTURE": "画像",
+					"ADDTOBASKET": "カートへ追加",
+					"CTA": {
+						"CONTINUE": {
+							"TITLE": "買い物を続ける",
+							"URL": "/"
+						}
+					},
+					"RECOMMENDED": {
+						"TITLE": "一緒に購入されている商品"
+					},
+					"SUBTOTAL": "小計",
+					"SUMMARY": {
+						"DESCRIPTION": "¥‎20,000 以上の注文で送料無料 (詳細) 利用規約とプライバシーポリシーが適用されます。",
+						"CHECKOUT": {
+							"CTA": {
+								"TEXT": "会計へ進む"
+							}
+						},
+						"TERMS": "利用規約",
+						"TOTALS": {
+							"TOTAL": "合計",
+							"PRODUCT": "小計"
+						},
+						"FOOTER": {
+							"TEXT": {},
+							"TITLE": "ご利用いただけるお支払い方法:"
+						},
+						"TAX": "税",
+						"TITLE": "注文概要",
+						"VOUCHER": {
+							"TEXT": "プロモコードを入力してください"
+						},
+						"CHECKOUTEX": {
+							"CTA": {
+								"TEXT": "で決済"
+							},
+							"ORTEXT": "または"
+						},
+						"SHIPPING": "送料",
+						"DISCOUNT": "値引き"
+					},
+					"DESCRIPTION": "商品",
+					"NOTE": "会計が完了するまで、かごの中の商品は確保されておらず、価格も確定していません。",
+					"QTY": "数量",
+					"FAVORITES": {
+						"TITLE": "最近見た商品"
+					},
+					"REMOVE": "削除",
+					"TITLE": "ショッピングバッグ",
+					"TITLEEMPTY": "ショッピングバッグ空です"
+				},
+				"MYACCOUNT": {
+					"REGISTER": {
+						"PAGETITLE": "アカウント作成"
+					},
+					"VERIYCOMPLETE": {
+						"PAGETITLE": "確認が完了しました"
+					},
+					"CONTACT": {
+						"PHONE": "1-866-709-5677",
+						"EMAIL": "support@localised.com"
+					},
+					"CONFIRMPASSWORD": "パスワードの確認",
+					"CREATE": {
+						"REGISTER": {
+							"CTA": "今すぐ登録"
+						},
+						"TELEPHONE": "電話番号",
+						"LAST": "姓",
+						"LEGAL": "お客様の個人情報の登録により、当社の諸条件とプライバシーポリシー、Cookieポリシーに同意したものと見なされます。",
+						"MAILING": "当社のメーリングリストに参加して、先行セールや新商品、トレンド、割引情報をメールや郵送で手に入れましょう。",
+						"TITLE": "アカウントを作成する",
+						"FIRST": "名"
+					},
+					"ASSISTANCE": "さらなるサポートが必要な場合はご連絡ください。",
+					"EMAILADDRESS": "Eメールアドレス",
+					"SIGNIN": {
+						"CTA": "サインイン",
+						"PAGETITLE": "アカウントへログイン",
+						"CREATE": {
+							"CTA": "アカウント作成",
+							"TITLE": "またはアカウントを作成する",
+							"DESC": "限定オファーや最新の割引情報を受け取るには、アカウントを作成してください。"
+						},
+						"TITLE": "続けるにはサインインしてください"
+					},
+					"RESET": {
+						"RECEIVED": "メールは届きましたか？",
+						"CAPTCHA": {
+							"TITLE": "CAPTCHA",
+							"DESC": "表示された文字を入力してください"
+						},
+						"CTA": "続ける",
+						"LAST": {
+							"TITLE": "ありがとうございます！ 次が最後のステップです",
+							"DESC": "確認メールをお送りしましたので、メール内に記載のあるリンクを辿ってサインアップを完了させてください。"
+						},
+						"TITLE": "パスワードの再設定",
+						"RESEND": "確認を再送信する",
+						"DETAIL": "入力したメールアドレスがGoogleの記録内の顧客アカウントに関連付けられている場合は、パスワードをリセットする手順を記載したメールがGoogleに送信されます。このメールが届かない場合は、迷惑メールフォルダを確認するか、カスタマーサービスチームにお問い合わせください。",
+						"DESC": "あなたのアカウントに関連付けられているメールアドレスを入力し、「続ける」をクリックしてください。新しいパスワードの作成ページへのリンクを記載したメールをお送りします。"
+					},
+					"COMMPREF": {
+						"MANAGEYOURSUBSCRIPTIONS": {
+							"DES": "あなたのお気に入りのデザイナーの新商品情報と、興味のある雑誌やルックブックの掲載商品の更新を毎週受け取りましょう。",
+							"TIT": "登録情報を管理する"
+						},
+						"CTA": {
+							"LABEL": "変更を保存"
+						},
+						"MANYOURSUBS": {
+							"TITLE": "登録情報を管理する"
+						},
+						"DESCRIPTION": "私たちはお客様にとって便利な形で、お客様とのつながりを保ちたいと考えています。",
+						"EMAILFREQ": {
+							"ALL": "すべてのメール",
+							"WEEKLY": "毎週",
+							"UNSUB": "すべてのメールの購読を停止する",
+							"TITLE": "メールの頻度",
+							"MONTHLY": "毎月"
+						},
+						"EMAILPREF": {
+							"TITLE": "メールの好みを管理する"
+						},
+						"CATEGORIESOFINTEREST": {
+							"WOMEN": "レディース",
+							"TITLE": "どのカテゴリーに興味がありますか？",
+							"MAN": "メンズ",
+							"BOTH": "両方"
+						},
+						"CHANGE": {
+							"EDIT": "編集",
+							"TITLE": "メールアドレスの変更"
+						},
+						"TITLE": "連絡の好みの設定",
+						"SENTEMAILS": {
+							"COMMON": "現在のメールの送信先"
+						}
+					},
+					"VERIY": {
+						"PAGETITLE": "アカウントの確認"
+					},
+					"ORDER": {
+						"TOTAL": "注文合計",
+						"PAYMENT": "お支払い方法",
+						"TRACKLINK": "トラックオーダー",
+						"CHARGES": "手数料",
+						"TAX": "税",
+						"ORDEREDBY": "注文者",
+						"SHIPPING": "発送方法",
+						"PURCHASE": "購入する",
+						"DATE": "注文日",
+						"ITEM": {
+							"PRICE": "価格",
+							"QTY": "数量",
+							"DESC": "商品"
+						},
+						"STATUS": "ステータス",
+						"SHIPPEDTO": "配送先",
+						"TITLE": "注文",
+						"SHIPPINGTAX": "送料"
+					},
+					"NEWPWD": {
+						"CTA": "パスワードの更新",
+						"NEW": "新パスワード",
+						"PAGETITLE": "パスワードを再設定する",
+						"TITLE": "新しいパスワードを設定してください",
+						"CONF": "新しいパスワードの確認",
+						"DESC": "関連付けられているアドレスを入力してください"
+					},
+					"PASSWORD": "パスワード",
+					"ORDERHISTORY": {
+						"ORDERTOTAL": {
+							"TITLE": "注文合計"
+						},
+						"ORDERVIEW": "注文を見る",
+						"PAGETITLE": "注文履歴",
+						"ORDERDATE": {
+							"TITLE": "注文日"
+						},
+						"DESCRIPTION": "購入手続き後は、ご注文の商品の配送状況を確認し、返品用フォームにアクセスして返金情報をご覧ください。",
+						"ORDERNUMBER": {
+							"TITLE": "注文番号"
+						},
+						"ORDERSTATUS": {
+							"TITLE": "ステータス"
+						},
+						"TITLE": "注文履歴",
+						"ORDERTRACK": "注文の追跡"
+					},
+					"RECOVER": {
+						"PAGETITLE": "パスワードを問い合わせる"
+					},
+					"KEEPLOGGEDIN": {
+						"OPTIN": "ログイン状態を維持する"
+					},
+					"ORDERDETAILS": {
+						"PAGETITLE": "注文の詳細"
+					},
+					"RECOVERPASSWORD": {
+						"LINK": "パスワードの問い合わせ"
+					},
+					"MENU": {
+						"ORDHIST": "注文履歴",
+						"TITLE": "マイアカウント",
+						"SETTINGS": "アカウント設定",
+						"COMMPREF": "連絡の好みの設定"
+					},
+					"PREFS": {
+						"PAGETITLE": "アカウントの好みの設定"
+					}
+				},
+				"ABOUTUS": {
+					"TITLE": "当社について"
+				},
+				"PDP": {
+					"PRICE": "価格",
+					"QUANTITY": "数量",
+					"SIZE": "サイズ",
+					"SIZEIMAGE": "サイズチャート",
+					"STYLE": {
+						"TITLE": "スタイル"
+					},
+					"PRODUCTINFO": "アイテム詳細",
+					"SHIPPINGDETAILS": "¥‎20,000以上のご注文で日本へ無料配送<u>もっと詳しく知る。</u>",
+					"INFO": {
+						"CATEGORY": "カテゴリー",
+						"ITEMNO": "商品番号",
+						"SHIPPINGCONTENT": "¥‎20,000以上のご注文で日本へ無料配送",
+						"SIZES": "サイズ",
+						"GENDER": "性別",
+						"MATERIALS": "素材",
+						"MALE": "男性",
+						"SHIPPING": "送料",
+						"FEMALE": "女性"
+					},
+					"DESCRIPTION": {
+						"TEXT": {},
+						"TITLE": {
+							"TEXT": "説明"
+						}
+					},
+					"COLOR": "色",
+					"DELIVERYAND RETURN": {
+						"DESCRIPTION": {
+							"TEXT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+						},
+						"TITLE": {
+							"TEXT": "配送と返品"
+						}
+					},
+					"DELIVERYANDRETURN": {
+						"DESCRIPTION": {
+							"TEXT": "提ネ内源しわ明来フオキ評最故ヲメ染工マ面査近ッす刈26話ヤメワセ町1学歌ず約優けょさ込新ツ川上めばスな療"
+						},
+						"TITLE": {
+							"TEXT": "配達および返品"
+						}
+					},
+					"SIZEANDFIT": {
+						"TEXT": "測ぴきや動即め郎権へふク未",
+						"TITLE": {
+							"TEXT": "サイズ&フィット"
+						}
+					},
+					"BTN": {
+						"NOTAVAILABLE": "購入できません",
+						"PREORDER": "先行予約する",
+						"LOWSTOCK": "在庫わずか",
+						"BUY": "ショッピングバッグに追加する",
+						"DISCONTINUED": "製造中止",
+						"OUTOFSTOCK": "在庫切れ"
+					},
+					"ITEMNUMBER": "アイテム番号",
+					"SIZEGUIDE": {
+						"TEXT": "サイズガイド"
+					}
+				},
+				"SEARCHBAR": {
+					"DEFAULT": "検索"
+				},
+				"SITE": {
+					"NAME": "Site Name NN"
+				},
+				"BREADCRUMB": {
+					"BACK": "戻る"
+				},
+				"PRIVACY": {
+					"TITLE": "プライバシーポリシー"
+				},
+				"VARIANTS": {
+					"MORE": {
+						"COLORS": "カラーバリエーション"
+					}
+				},
+				"SEARCH": {
+					"TITLE": "検索"
+				},
+				"PRICINGSTRATEGY": {
+					"ALLINCLUSIVE": "(税込)"
+				},
+				"MAINMENU": {
+					"ITEM2": "メンズ",
+					"ITEM1": "レディース",
+					"SUBLISTING": "一般的なサブリストページ"
+				},
+				"PROMOTOP": {
+					"TEXT": "¥‎20,000以上のご注文で日本へ無料配送",
+					"TITLE": {}
+				},
+				"PRODUCTPAGE": {
+					"TITLE": "商品詳細"
+				},
+				"FOOTER": {
+					"NEIMAN": {
+						"EMAIL": "jpsupport@neimanmarcus.com"
+					},
+					"FORM": {
+						"SIGNUP": "登録して通知を受け取る"
+					},
+					"LINK1": {
+						"SUBLINK1": {
+							"LINK": "/about-us",
+							"TEXT": "会社情報"
+						},
+						"LINK": "/about-us",
+						"TEXT": "当社について",
+						"SUBLINK2": {
+							"LINK": "/about-us",
+							"TEXT": "プライバシーポリシー"
+						},
+						"SUBLINK3": {
+							"LINK": "/about-us",
+							"TEXT": "利用規約"
+						}
+					},
+					"BUSINESSHOURS": "月曜日〜金曜日午前9時〜午後5時",
+					"CONTACTUS": "お問い合わせ",
+					"LINK3": {
+						"SUBLINK1": {
+							"LINK": "/about-us",
+							"TEXT": "月曜日〜金曜日午前9時〜午後5時"
+						},
+						"LINK": "/about-us",
+						"TEXT": "お問い合わせ",
+						"SUBLINK2": {
+							"LINK": "/about-us",
+							"TEXT": "jpsupport@neimanmarcus.com"
+						}
+					},
+					"LINK2": {
+						"SUBLINK1": {
+							"LINK": "/about-us",
+							"TEXT": "お問い合わせ"
+						},
+						"LINK": "/about-us",
+						"TEXT": "サポート",
+						"SUBLINK2": {
+							"LINK": "/about-us",
+							"TEXT": "配送・返品について"
+						},
+						"SUBLINK3": {
+							"LINK": "/about-us",
+							"TEXT": "よくある質問"
+						}
+					},
+					"COPY": {
+						"NEIMAN": {
+							"TEXTLINE1": "このサイトは、The Neiman Marcus Group, Inc によって販売された製品の正規販売代理店である Localised Inc.によって運営されています。"
+						},
+						"TEXTLINE1": "このサイトは、Desilacol によって販売された製品の正規販売代理店である Localised、Inc.によって運営されています。",
+						"TEXTLINE2": "© Localised Inc. 及び子会社、2017。全著作権所有。",
+						"LINK": {
+							"HREF": "/about-us",
+							"TEXT": "さらに知る"
+						}
+					},
+					"PAGE": {
+						"CONTACT": "お問い合わせ",
+						"COOKIES": "利用規約",
+						"FAQ": "よくある質問",
+						"INVESTOR": "プライバシーポリシー",
+						"CUSTOMER": "サポート",
+						"ABOUT": "当社について",
+						"DELIVERY": "配送・返品について",
+						"HISTORY": "会社情報"
+					},
+					"CS": {
+						"SUPPORT": {
+							"DETAIL": "ヘルプは常に利用可能です"
+						},
+						"DELOFFER": "¥5,600以上の注文で送料無料",
+						"DELIVERY": "配送"
+					},
+					"CSDELOFFER": "¥5,600以上の注文で送料無料",
+					"SOCIAL": {
+						"CONNECT": "接続"
+					},
+					"CSSUPPORT": {
+						"TITLE": "顧客サポート",
+						"DETAIL": "いつでもサポートいたします"
+					},
+					"SECURE": "安全なショッピング"
+				},
+				"GENERIC404": {
+					"TITLE": "ページが見つかりません"
+				},
+				"MINIBASKET": {
+					"CTA": {
+						"TEXTEMPTY": "ショッピングバッグに行く",
+						"TEXT": "注文を確定する"
+					},
+					"SUMMARY": {
+						"FOOTER": "¥‎20,000以上のご注文で日本へ無料配送"
+					},
+					"TITLE": "私のショッピングバッグ"
+				},
+				"SEARCHPAGE": {
+					"RESULTS": {
+						"DESKTOP": {
+							"TITLE": "\"{{q}}\" についての結果"
+						},
+						"NORESULTS": {
+							"TITLE": "\"{{q}}\" については結果が得られません。"
+						},
+						"RETRY": "別の検索を試してみてください。",
+						"BODY": "<b> 役に立つヒント </b><br>スペルのダブルチェック<br>語数が多すぎます。<br>条件を緩めて検索してみてください。",
+						"SUBTITLE": "申し訳ございませんが、お探しのものが見つかりません。",
+						"MOBILE": {
+							"TITLE": "\"{{q}}\" についての結果"
+						}
+					},
+					"NORESULTS": {
+						"HINT1": "スペルのダブルチェック",
+						"HINT2": "語数が多すぎます。",
+						"HINT3": "条件を緩めて検索してみてください。",
+						"HINT": {
+							"TITLE": "役に立つヒント"
+						}
+					}
+				},
+				"CS": {
+					"LINE": "ライン：Localised Support",
+					"PHONE": "電話番号: +1-972-556-6044",
+					"EMAIL": "Eメール：jpsupport@neimanmarcus.com"
+				},
+				"MAINSUBMENU1": {
+					"ITEM2": "シューズ",
+					"ITEM1": "ファッション",
+					"ITEM6": {},
+					"ITEM5": "セール",
+					"ITEM4": "アクセサリー",
+					"ITEM3": "ハンドバッグ",
+					"ITEM8": {},
+					"ITEM7": {}
+				},
+				"RECENTLYVIEWED": {
+					"TITLE": "最近見た商品"
+				},
+				"MORE": {
+					"COLORS": "もっと"
+				},
+				"TEST": {
+					"REMOVAL": "test removal jp"
+				},
+				"DESILACOL": {
+					"HOMEPAGE": {
+						"NEW": {
+							"DESCRIPTION": "販売されたすべての製品について、ACLUに5ドル寄付することを誇りに思います"
+						}
+					}
+				},
+				"MAINSUBMENU2": {
+					"ITEM2": "シューズ",
+					"ITEM1": "ファッション",
+					"ITEM6": {},
+					"ITEM5": {},
+					"ITEM4": "セール",
+					"ITEM3": "アクセサリー",
+					"ITEM8": {},
+					"ITEM7": {}
+				},
+				"LOCALESELECTOR": {
+					"LANGUAGESELECTOR": "言語を選択:",
+					"CTA": "決定",
+					"COUNTRYSELECTOR": "国を選択:",
+					"DESCRIPTION": "現在配送可能な国は以下の通りです",
+					"TITLE": "お住まいの国を選択してください"
+				},
+				"REVIEW": {
+					"CTA": "注文を確定する",
+					"PAYMENT": {
+						"EDIT": "編集",
+						"TITLE": "お支払い方法"
+					},
+					"BILLING": {
+						"EDIT": "編集"
+					},
+					"ADDRESS": {
+						"BILLING": "請求先住所",
+						"SHIPPING": "宛先住所"
+					},
+					"LINK": {
+						"BACK": "支払い詳細へ戻る"
+					},
+					"TITLE": "確認",
+					"CTADISCLAIMER": {
+						"TEXT": "「注文を確定する」をクリックすると、Neiman Marcus の認定リセラーである Localised, Inc. のご利用規約に同意したとみなされ、お支払いは Localised から請求させて頂きます。"
+					},
+					"SHIPPING": "発送方法",
+					"DELIVERY": {
+						"EDIT": "編集"
+					}
+				},
+				"PAYMENTPAGE": {
+					"BILLING": {
+						"CANCELEDIT": "キャンセル",
+						"SAVE": "決定"
+					},
+					"ADDRESS": {
+						"SAME": "配送先住所を使用する",
+						"CANCELEDIT": "キャンセル",
+						"EDITMETHOD": "配送方法を変更",
+						"EDIT": "EDIT",
+						"SAVE": "決定",
+						"EDITSHIPPING": "EDIT SHIPPING ADDRESS"
+					},
+					"SHIPPINGMETHOD": {
+						"CANCEL": "キャンセル",
+						"EDIT": "編集",
+						"SAVE": "決定"
+					},
+					"REVIEW": {
+						"SHIPPINGMETHOD": "発送方法",
+						"SHIPPINGADDRESS": "宛先住所"
+					},
+					"DELIVERY": {
+						"CANCELEDIT": "キャンセル",
+						"SAVE": "決定"
+					}
+				},
+				"HOME": "ホーム"
+			}
+		},
+		"en": {
+			"LANGUAGE": {
+				"SELECT": {
+					"CONTENT": {
+						"LABEL": "Select your language:"
+					}
+				}
+			},
+			"SITE": {
+				"LOCALE": {
+					"SWITCHER": {
+						"APPLY": "Apply",
+						"TITLE": "Select Your Country",
+						"DESCRIPTION ": "We currently ship to the below countries"
+					}
+				},
+				"SELECT": {
+					"CONTENT": {
+						"LABEL": "Select country:"
+					}
+				}
+			},
+			"WEB": {
+				"LISTING": {
+					"TITLE": "Hello World!"
+				},
+				"PAYMENT": {
+					"CARDNAME": "CARD HOLDER NAME",
+					"VALIDATION": {
+						"CVC": "Incorrect details",
+						"EXPYEAR": "Incorrect details",
+						"CARDNUMBER": "The details you have entered are incorrect, please review.",
+						"CARDNAME": "The details you have entered are incorrect, please review.",
+						"EXPMONTH": "Incorrect details"
+					},
+					"PAY": {
+						"PP": "Pay with",
+						"PAYPAL": "Pay with",
+						"REVIEW": "REVIEW AND CONFIRM",
+						"CARD": "Pay with Credit/Debit Card"
+					},
+					"INFO": {
+						"NEXT": "On the next page, you can review your order details. You will not be billed until you confirm your order on the next page."
+					},
+					"CTA": "CONFIRM YOUR ORDER",
+					"CVC": "CVV/CVN",
+					"SELECTTYPE": "SELECT PAYMENT TYPE",
+					"EXPYEAR": "EXPIRATION YEAR",
+					"CARDNUMBER": "CREDIT CARD NUMBER",
+					"ADDRESS": {
+						"SAME": "BILLING ADDRESS SAME AS SHIPPING ADDRESS",
+						"NEW": "USE NEW ADDRESS",
+						"BILLING": {
+							"TITLE": "YOUR BILLING ADDRESS"
+						}
+					},
+					"EXPMONTH": "EXPIRATION MONTH",
+					"LINK": {
+						"BACK": "Return to shipping options"
+					},
+					"TITLE": "PAYMENT DETAILS"
+				},
+				"ORG": {
+					"REGION": {
+						"US_MA": "Massachusetts",
+						"AU_WA": "Western Australia",
+						"US_MI": "Michigan",
+						"US_MD": "Maryland",
+						"AU_NT": "Northern Territory",
+						"CA_BC": "British Columbia",
+						"US_ME": "Maine",
+						"US_UM": "United States Minor Outlying Islands",
+						"US_TX": "Texas",
+						"US_DC": "District of Columbia",
+						"TW_TNN": "Tainan",
+						"CA_SK": "Saskatchewan",
+						"US_DE": "Delaware",
+						"JP_43": "Kumamoto",
+						"US_VI": "Virgin Islands, U.S.",
+						"JP_44": "Oita",
+						"JP_45": "Miyazaki",
+						"TW_KEE": "Keelung",
+						"US_NC": "North Carolina",
+						"AU_ACT": "Australian Capital Territory",
+						"JP_46": "Kagoshima",
+						"US_ND": "Â North Dakota",
+						"JP_47": "Okinawa",
+						"TW_MIA": "Miaoli",
+						"US_NJ": "New Jersey",
+						"US_VT": "Vermont",
+						"US_NE": "Nebraska",
+						"JP_40": "Fukuoka",
+						"JP_41": "Saga",
+						"JP_42": "Nagasaki",
+						"US_NH": "New Hampshire",
+						"US_MP": "Northern Mariana Islands",
+						"US_MS": "Mississippi",
+						"US_UT": "Utah",
+						"US_MN": "Minnesota",
+						"US_MO": "Missouri",
+						"US_VA": "Virginia",
+						"AU_QLD": "Queensland",
+						"US_MT": "Montana",
+						"AU_TAS": "Tasmania",
+						"US_SC": "South Carolina",
+						"US_SD": "South Dakota",
+						"US_CA": "California",
+						"CA_YT": "Yukon",
+						"TW_HUA": "Hualien",
+						"TW_TTT": "Taitung",
+						"CA_QC": "Quebec",
+						"AU_NSW": "New South Wales",
+						"US_LA": "Louisiana",
+						"US_CT": "Connecticut",
+						"CA_AB": "Alberta",
+						"US_TN": "Tennessee",
+						"TW_PEN": "Penghu",
+						"TW_NAN": "Nantou",
+						"US_CO": "Colorado",
+						"US_KY": "Kentucky",
+						"US_KS": "Kansas",
+						"JP_10": "Gunma",
+						"JP_11": "Saitama",
+						"JP_12": "Chiba",
+						"TW_KHH": "Kaohsiung",
+						"JP_13": "Tokyo",
+						"JP_14": "Kanagawa",
+						"AU_SA": "South Australia",
+						"JP_15": "Niigata",
+						"JP_16": "Toyama",
+						"CA_NU": "Nunavut",
+						"JP_17": "Ishikawa",
+						"CA_NT": "Northwest Territories",
+						"US_ID": "Idaho",
+						"CA_NS": "Nova Scotia",
+						"TW_TAO": "Taoyuan",
+						"TW_CHA": "Changhua",
+						"US_IA": "Iowa",
+						"TW_ILA": "Yilan",
+						"TW_CYQ": "Chiayi",
+						"US_HI": "Hawaii",
+						"US_PR": "Puerto Rico",
+						"JP_07": "Fukushima",
+						"JP_08": "Ibaraki",
+						"JP_09": "Tochigi",
+						"TW_CYI": "Chiayi",
+						"AU_VIC": "Victoria",
+						"JP_01": "Hokkaido",
+						"TW_NWT": "New Taipei",
+						"JP_02": "Aomori",
+						"JP_03": "Iwate",
+						"JP_04": "Miyagi",
+						"JP_05": "Akita",
+						"US_AR": "Arkansas",
+						"JP_06": "Yamagata",
+						"TW_HSQ": "Hsinchu",
+						"US_AS": "American Samoa",
+						"US_RI": "Rhode Island",
+						"US_AZ": "Arizona",
+						"CA_ON": "Ontario",
+						"US_IL": "Illinois",
+						"US_IN": "Indiana",
+						"US_AL": "Alabama",
+						"CA_PE": "Prince Edward Island",
+						"TW_KIN": "Kinmen",
+						"TW_YUN": "Yunlin",
+						"TW_HSZ": "Hsinchu",
+						"US_AK": "Alaska",
+						"JP_32": "Shimane",
+						"TW_TPE": "Taipei",
+						"JP_33": "Okayama",
+						"JP_34": "Hiroshima",
+						"JP_35": "Yamaguchi",
+						"JP_36": "Tokushima",
+						"JP_37": "Kagawa",
+						"JP_38": "Ehime",
+						"JP_39": "Kochi",
+						"US_WI": "Wisconsin",
+						"US_OK": "Oklahoma",
+						"TW_TXG": "Taichung",
+						"JP_30": "Wakayama",
+						"US_OH": "Ohio",
+						"JP_31": "Tottori",
+						"US_GA": "Georgia",
+						"US_FL": "Florida",
+						"US_NM": "New Mexico",
+						"JP_29": "Nara",
+						"US_NY": "New York",
+						"CA_MB": "Manitoba",
+						"US_NV": "Nevada",
+						"US_WA": "Washington",
+						"JP_21": "Gifu",
+						"JP_22": "Shizuoka",
+						"TW_LIE": "Lienchiang",
+						"JP_23": "Aichi",
+						"JP_24": "Mie",
+						"JP_25": "Shiga",
+						"JP_26": "Kyoto",
+						"JP_27": "Osaka",
+						"US_PA": "Pennsylvania",
+						"JP_28": "Hyogo",
+						"JP_20": "Nagano",
+						"CA_NL": "Newfoundland and Labrador",
+						"US_OR": "Oregon",
+						"US_WV": "West Virginia",
+						"US_WY": "Wyoming",
+						"JP_18": "Fukui",
+						"JP_19": "Yamanashi",
+						"CA_NB": "New Brunswick",
+						"US_GU": "Guam",
+						"TW_PIF": "Pingtung"
+					}
+				},
+				"CHECKOUT": {
+					"HELP": {
+						"HOURS": "Operating hours: Mon - Fri 8am - 6pm",
+						"PHONE": {},
+						"RETURNS": {
+							"TITLE": "Returns"
+						},
+						"ORTEXT": "Or",
+						"TITLE": "NEED HELP?",
+						"EMAIL": "<b>Email</b>: <u>jpsupport@neimanmarcus.com</u>",
+						"SHIPPING": {
+							"TITLE": "Shipping"
+						}
+					},
+					"PAYMENT": {
+						"ERROR": {
+							"TITLE": "WE ARE SORRY, BUT YOUR PAYMENT COULD NOT BE PROCESSED.",
+							"DESC": "Please check your payment details and try again, or try another payment method. If the problem persists, contact your bank."
+						}
+					},
+					"DESCRIPTION": "Description",
+					"FORM": {
+						"CONSUMER": {
+							"DESCRIPTION": "Please enter an email address and phone number where we can reach you about your order",
+							"TITLE": "CONTACT INFORMATION"
+						}
+					},
+					"STEP": {
+						"PAYMENT": "PAYMENT",
+						"REVIEW": "REVIEW AND CONFIRM",
+						"BASKET": "SHOPPING BAG",
+						"SHIPPING": "SHIPPING"
+					},
+					"TITLE": "Checkout",
+					"BASKET": {
+						"LIST": {
+							"ITEM": "ITEM:",
+							"PRICE": "PRICE:",
+							"DESCRIPTION": "ITEM",
+							"PICTURE": "Image",
+							"QUANTITY": "Quantity",
+							"COLOR": "COLOR:",
+							"SIZE": "SIZE:",
+							"TITLE": "Shopping Bag Summary",
+							"SIZETYPE": "SIZE TYPE:"
+						}
+					},
+					"SHIPPING": {
+						"MARKETING": {
+							"OPTIN": "Send me information about exclusive promotions and events. See our Privacy Policy"
+						},
+						"EMAILCONFIRM": {
+							"REQUIRED": "Email address is required.",
+							"VALIDATION": "Email address is not correctly formatted.",
+							"TEXT": "CONFIRM EMAIL ADDRESS"
+						}
+					},
+					"STEPPER": {
+						"STEP1": "SHIPPING",
+						"STEP2": "PAYMENT",
+						"STEP3": "REVIEW & CONFIRM"
+					}
+				},
+				"THANKYOU": {
+					"TITLE": "Thank You for Your Purchase"
+				},
+				"SHIPPING": {
+					"PHONETICLASTNAME": {
+						"ITEM": "LAST NAME (PHONETIC)",
+						"VER": "Last Name (Phonetic) is required.",
+						"PLACEHOLDER": "YAMADA"
+					},
+					"TELEPHONE": {
+						"VAL": "Telephone is not correctly formatted.",
+						"ITEM": "TELEPHONE",
+						"VER": "Telephone is required."
+					},
+					"ISCOMPANY": {
+						"ITEM": "Is this a business address?"
+					},
+					"POSTAL": {
+						"VAL": "Postal code is not correctly formatted.",
+						"ITEM": "POSTAL",
+						"VER": "Postal code is required.",
+						"PLACEHOLDER": "171-0031"
+					},
+					"STATECHOOSE": {
+						"ITEM": "Select Prefecture"
+					},
+					"STATE": {
+						"VAL": "Prefecture is not correctly formatted.",
+						"ITEM": "PREFECTURE",
+						"VER": "Prefecture is required.",
+						"PLACEHOLDER": "TOKYO"
+					},
+					"FIRSTNAME": {
+						"VAL": "First Name is not correctly formatted.",
+						"ITEM": "FIRST NAME",
+						"VER": "First Name is required.",
+						"PLACEHOLDER": "Taro"
+					},
+					"EMAIL": {
+						"VAL": "Email address is not correctly formatted.",
+						"ITEM": "EMAIL ADDRESS",
+						"VER": "Email address is required.",
+						"COMPARE": {
+							"VER": "Email addresses do not match."
+						},
+						"PLACEHOLDER": "taro@example.com"
+					},
+					"CTA": "CONTINUE WITH CHECKOUT",
+					"OPT": {
+						"CTA": "CONTINUE TO PAYMENT",
+						"RETURN": "RETURN TO SHIPPING DETAILS",
+						"STD": {
+							"TITLE": "STANDARD",
+							"DESC": "Standard - {{price, price+free}} ({{min}}-{{max}} business days)"
+						},
+						"TITLE": "SHIPPING OPTIONS",
+						"EXP": {
+							"TITLE": "EXPRESS",
+							"DESC": "Express - {{price, price+free}} ({{min}}-{{max}} business days)"
+						}
+					},
+					"CITY": {
+						"VAL": "City is not correctly formatted.",
+						"ITEM": "CITY",
+						"VER": "City is required.",
+						"PLACEHOLDER": "Toshima-ku"
+					},
+					"COUNTRY": {
+						"ITEM": "COUNTRY"
+					},
+					"LASTNAME": {
+						"VAL": "Last Name is not correctly formatted.",
+						"ITEM": "LAST NAME",
+						"VER": "Last Name is required.",
+						"PLACEHOLDER": "Yamada"
+					},
+					"LINK": {
+						"BACK": "Return to shipping details"
+					},
+					"PHONETICFIRSTNAME": {
+						"ITEM": "FIRST NAME (PHONETIC)",
+						"VER": "First Name (Phonetic) is required.",
+						"PLACEHOLDER": "TARO"
+					},
+					"TITLE": "SHIPPING",
+					"ADDRESS1": {
+						"VAL": "Address is not correctly formatted.",
+						"ITEM": "ADDRESS",
+						"VER": "Address is required.",
+						"PLACEHOLDER": "3-17, Mejiro 1-Chome"
+					},
+					"ADDRESS2": {
+						"ITEM": "Building",
+						"PLACEHOLDER": "Mejiro Garden Hills c209"
+					}
+				},
+				"ORDERCONF": {
+					"CONTINUE": {
+						"CTA": "/",
+						"TEXT": "BROWSE NEW ARRIVALS"
+					},
+					"ORDERNUM": "ORDER NUMBER:",
+					"ORDERDATE": "ORDER DATE:",
+					"NEXT": {
+						"TITLE": "WHAT HAPPENS NOW?",
+						"DESC": "You will receive an order confirmation email with details of this purchase.<br />You will be charged by Localised, Inc. when your order ships."
+					},
+					"TRACKING": "Order Tracking",
+					"THANKYOU": "THANK YOU FOR YOUR ORDER",
+					"TITLE": "ORDER RECEIVED",
+					"THANK": "THANK YOU FOR YOUR ORDER"
+				},
+				"PLP": {
+					"RECENTLYVIEWED": {
+						"DESCRIPTION": "RECOMMENDATIONS",
+						"TITLE": "RECENTLY VIEWED"
+					},
+					"FILTER": {
+						"NOTAVAILABLE": {
+							"TEXT": "Filter not available"
+						},
+						"CLEARALL": {
+							"CTA": "CLEAR ALL"
+						},
+						"PRICE": {
+							"VALIDATIONMAX": "Cannot be higher than {{price}}",
+							"VALIDATIONMIN": "Cannot be lower than {{price}}",
+							"TITLE": "PRICE"
+						},
+						"COLOR": {
+							"RED": "Red",
+							"WHITE": "White",
+							"BLUE": "Blue",
+							"LABEL": "COLOR",
+							"BLACK": "Black",
+							"TITLE": "COLOR"
+						},
+						"APPLY": {
+							"CTA": "APPLY"
+						},
+						"SIZE": {
+							"TITLE": "SIZE"
+						},
+						"CLEAR": {
+							"CTA": "CLEAR"
+						},
+						"BRAND": {
+							"TITLE": "BRAND"
+						}
+					},
+					"LISTINGPAGINATION": {
+						"TEXT": {}
+					},
+					"FILTERTYPE": {
+						"PRICE": "Price",
+						"COLOR": "Color",
+						"LENGTH": "Length",
+						"SIZE": "Size",
+						"WIDTH": "Width",
+						"BRAND": "Designers"
+					},
+					"VERTICAL": {
+						"COATS": "Coats & Jackets",
+						"SUB": "SubCategory",
+						"ACTIVE": "Activewear",
+						"SHIRTS": "Shirts",
+						"SHORTS": "Shorts",
+						"LOUNGE": "Loungewear & Basics",
+						"SWEATERS": "Sweaters",
+						"DRESSES": "Dresses",
+						"SWIM": "Swim",
+						"CLOTHING": "CLOTHING",
+						"TOPS": "Tops",
+						"PANTS": "Pants",
+						"ACCESSORIES": "ACCESSORIES",
+						"SHOES": "SHOES",
+						"JEWELRY": "JEWELRY",
+						"SUITS": "Suits & Sportcoats"
+					},
+					"TOGGLE": {
+						"SORTBYPRICEDESC": {
+							"TEXT": "Price (high - low)"
+						},
+						"SORTBY": {
+							"MAINPRODUCTCOLOR": "Color",
+							"PRICEINDEX": "Price",
+							"MAINPRODUCTTYPE": "Type",
+							"TEXT": "SORT BY",
+							"MANUFACTURER": "Manufacturer",
+							"MAINPRODUCTVANITYCOLOR": "Vanity Color",
+							"NAME": "Name"
+						},
+						"NEWEST": {
+							"TEXT": "Newest"
+						},
+						"SORTBYPRICEASC": {
+							"TEXT": "Price (low - high)"
+						}
+					},
+					"FILTERS": {
+						"TITLE": "FILTERS"
+					},
+					"BANNERBOT": {
+						"CTA": {
+							"TITLE": "SHOP NOW"
+						},
+						"WOMEN": {
+							"CTA": {
+								"TITLE": "Shop Now"
+							},
+							"TITLE": "WOMEN'S SHOES",
+							"SUBTITLE": "Discover this season's collection"
+						},
+						"MEN": {
+							"CTA": {
+								"TEXT": "Shop Now"
+							},
+							"TITLE": "NEW FALL BOOTS COLLECTION",
+							"SUBTITLE": "Kick up a storm."
+						},
+						"TITLE": "NEW FALL BOOTS COLLECTION",
+						"WOMENSUB": {
+							"CTA": {
+								"TEXT": "Shop Now"
+							},
+							"TITLE": "WOMEN'S SHOES",
+							"SUBTITLE": "Discover this season's collection"
+						},
+						"MENSUB": {
+							"CTA": {
+								"TITLE": "Shop Now"
+							},
+							"TITLE": "NEW FALL BOOTS COLLECTION",
+							"SUBTITLE": "Kick up a storm."
+						},
+						"SUBTITLE": "Kick up a storm."
+					},
+					"PAGINATION": {
+						"RESULTS": "Results",
+						"OUTOF": "of",
+						"PAGE": "Page",
+						"VIEW": "VIEW"
+					},
+					"BANNERTOP": {
+						"WOMEN": {
+							"TITLE": "Dresses",
+							"SUBTITLE": "What's Trending Now"
+						},
+						"MEN": {
+							"TITLE": "COATS & JACKETS",
+							"SUBTITLE": "Let the weather do its worst."
+						},
+						"TITLE": "Dresses",
+						"WOMENSUB": {
+							"TITLE": "Dresses",
+							"SUBTITLE": "What's Trending Now"
+						},
+						"MENSUB": {
+							"TITLE": "COATS & JACKETS",
+							"SUBTITLE": "Let the weather do its worst."
+						},
+						"SUBTITLE": "What's Trending Now"
+					},
+					"LOOKBOOK": {
+						"TITLE": "Look book",
+						"SECTION": {
+							"TITLE": "Formal wear",
+							"DESC": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+						}
+					}
+				},
+				"PRODUCT": {
+					"TILE": {
+						"DETAILS": "PRODUCT DETAILS",
+						"ADDTOBASKET": "ADD TO CART"
+					},
+					"LIST": {
+						"VIEWMORE": "View More"
+					},
+					"DISCOUNT": "{{discount}}%OFF",
+					"OUTOFSTOCK": "OUT OF STOCK"
+				},
+				"HOMEPAGE": {
+					"COLLECTION1": {
+						"SUBTITLE": "ROSE COLLECTION"
+					},
+					"SHOPNOW": "SHOP NOW",
+					"SALE": {
+						"DESCRIPTION": "SALE UP TO 70% OFF",
+						"TITLE": "SALE",
+						"INFO": {
+							"TEXT": "UP TO 70% OFF",
+							"CTA1": {
+								"LINK": "/women/sale/all-sale",
+								"TEXT": "SHOP NOW"
+							}
+						},
+						"SUBTITLE": "UP TO 70% OFF"
+					},
+					"SITEMAP": {
+						"TITLE": {}
+					},
+					"MAIN_TITLE": "Main title!",
+					"MAINFEATUREPRODUCT1": {
+						"CTA": {
+							"TEXT": "BUY NOW"
+						},
+						"DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+						"TITLE": "PROMOTION",
+						"SUBTITLE": "BRACELETS ON SALE"
+					},
+					"COLLECTION3": {
+						"SUBTITLE": "ROSE COLLECTION"
+					},
+					"COLLECTIONS": {
+						"IMAGE4": {
+							"PATH": "/images/home/collections/collections-covetable-coats.jpg",
+							"DESCRIPTION": "Keep out the cold with all occasion outerwear.",
+							"LINK": "/women/apparel/coats",
+							"TITLE": "COVETABLE COATS"
+						},
+						"DESCRIPTION": "From classic to contemporary, explore our new season must-haves.",
+						"IMAGE3": {
+							"PATH": "/images/home/collections/collections-the-man-store.jpg",
+							"DESCRIPTION": "The coats he wants for work or play.",
+							"LINK": "https://nm-pp-tst.bpc-aws.com/men/apparel/coats-and-jackets",
+							"TITLE": "DOWN TIME"
+						},
+						"IMAGE2": {
+							"PATH": "/images/home/collections/collections-stuart-weitzman-build-your-boot.jpg",
+							"DESCRIPTION": "Stuart Weitzman boots in 12 colors from mid-calf to over-the-knee.",
+							"LINK": "https://nm-pp-tst.bpc-aws.com/women/designers/featured-designers/stuart-weitzman",
+							"TITLE": "BUILD YOUR OWN BOOT"
+						},
+						"TITLE": "BROWSE OUR COLLECTIONS",
+						"IMAGE1": {
+							"PATH": "/images/home/collections/collections-new-balmain-bags.jpg",
+							"DESCRIPTION": "Latest bags from Balmain. Shop now.",
+							"LINK": "https://nm-pp-tst.bpc-aws.com/search?q=balmain",
+							"TITLE": "NEW BALMAIN"
+						}
+					},
+					"COLLECTION2": {
+						"SUBTITLE": "ROSE COLLECTION"
+					},
+					"MOBILESITEMAP2": {
+						"SUBTITLE8": {
+							"TEXT": "Sale",
+							"URL": "/women/sale"
+						},
+						"SUBTITLE2": {
+							"TEXT": "Bags",
+							"URL": "/women/bags"
+						},
+						"SUBTITLE3": {
+							"TEXT": "Dresses",
+							"URL": "/women/dresses"
+						},
+						"TITLE": {
+							"TEXT": "WOMEN",
+							"URL": "/women"
+						},
+						"SUBTITLE1": {
+							"TEXT": "Shoes",
+							"URL": "/women/shoes"
+						},
+						"SUBTITLE6": {
+							"TEXT": "Coats",
+							"URL": "/women/coats"
+						},
+						"SUBTITLE7": {
+							"TEXT": "Tops",
+							"URL": "/women/tops"
+						},
+						"SUBTITLE4": {
+							"TEXT": "Jewelry",
+							"URL": "/women/jewelry"
+						},
+						"SUBTITLE5": {
+							"TEXT": "Sunglasses",
+							"URL": "/women/sunglasses"
+						}
+					},
+					"MOBILESITEMAP1": {
+						"SUBTITLE8": {
+							"TEXT": "Sale",
+							"URL": "/men/sale"
+						},
+						"SUBTITLE2": {
+							"TEXT": "Bags",
+							"URL": "/men/bags"
+						},
+						"SUBTITLE3": {
+							"TEXT": "Pants",
+							"URL": "/men/pants"
+						},
+						"TITLE": {
+							"TEXT": "Men",
+							"URL": "/men"
+						},
+						"SUBTITLE1": {
+							"TEXT": "Shoes",
+							"URL": "/men/shoes"
+						},
+						"SUBTITLE6": {
+							"TEXT": "Activewear",
+							"URL": "/men/activewear"
+						},
+						"SUBTITLE7": {
+							"TEXT": "Dress Shirts",
+							"URL": "/men/dress-shirts"
+						},
+						"SUBTITLE4": {
+							"TEXT": "Watches",
+							"URL": "/men/watches"
+						},
+						"SUBTITLE5": {
+							"TEXT": "Sunglasses",
+							"URL": "/men/sunglasses"
+						}
+					},
+					"PRODUCTIMAGE": {
+						"FALL2017": "Fall 2017 Collection",
+						"SECTION3": {
+							"IMAGE": "/images/home/featured/featured-3-swim.jpg",
+							"TEXT1": "ETRO",
+							"TEXT2": "Off shoulder paisley tops <br />and silk shorts",
+							"LINK": "/search?q=etro"
+						},
+						"SECTION1": {
+							"IMAGE": "/images/home/featured/featured-1-men.jpg",
+							"TEXT1": "New Men's Collection",
+							"TEXT2": "Including Brunello Cucinelli and more",
+							"LINK": "/men/new-arrivals/all-new-arrivals"
+						},
+						"SECTION2": {
+							"IMAGE": "/images/home/featured/featured-2-louboutin.jpg",
+							"TEXT1": "Christian Louboutin",
+							"TEXT2": "Latest collection with new <br />vibrant Loubitag graffiti",
+							"LINK": "/women/designers/featured-designers/christian-louboutin"
+						},
+						"SHOES": "SHOES",
+						"JACKETS": "JACKETS"
+					},
+					"SITEMAP5": {
+						"LINK1": "/men/accessories/bags-and-wallets",
+						"LINK3": "/men/apparel/jeans",
+						"SUBTITLE2": "Coats & Jackets",
+						"LINK2": "/men/apparel/coats-and-jackets",
+						"SUBTITLE3": "Jeans",
+						"LINK5": "/men/shoes",
+						"MAINLINK1": "/men",
+						"LINK4": "/men/apparel/polos-and-t-shirts",
+						"SUBTITLE1": "Bags & Wallets",
+						"SUBTITLE6": "Watches",
+						"LINK6": "/men/accessories/watches",
+						"SUBTITLE4": "Polos & T-Shirts",
+						"SUBTITLE5": "Shoes",
+						"TITLE1": "THE MAN'S STORE"
+					},
+					"BANNER1": {
+						"CTA": {
+							"TEXT": "SHOP NOW"
+						},
+						"IMAGE": "/images/home/carousel/carousel-1-sale.jpg",
+						"MOBILEIMAGE": "/images/home/carousel/",
+						"LINK": "/women/sale/all-sale",
+						"TITLE": "Designer Sale",
+						"SUBTITLE": "Up to 40% off regular prices <br />for women's and men's"
+					},
+					"SITEMAP4": {
+						"LINK1": "/women/accessories/hats",
+						"LINK3": "/women/accessories/scarves-and-wraps",
+						"SUBTITLE2": "Jewelry",
+						"LINK2": "/women/accessories/jewelry",
+						"SUBTITLE3": "Scarves & Wraps",
+						"LINK5": "/women/accessories/wallets-and-wristles",
+						"MAINLINK1": "/women/accessories",
+						"LINK4": "/women/accessories/sunglasses",
+						"SUBTITLE1": "Hats",
+						"SUBTITLE6": "Watches",
+						"LINK6": "/women/accessories/watches",
+						"SUBTITLE4": "Sunglasses",
+						"SUBTITLE5": "Wallets & Wristles",
+						"TITLE1": "ACCESSORIES"
+					},
+					"SITEMAP3": {
+						"LINK1": "/women/handbags/backpacks",
+						"LINK3": "/women/handbags/hobos",
+						"SUBTITLE2": "Crossbody Bags",
+						"LINK2": "/women/handbags/crossbody-bags",
+						"SUBTITLE3": "Hobos",
+						"LINK5": "/women/handbags/shoulder-bags",
+						"MAINLINK1": "/women/handbags",
+						"LINK4": "/women/handbags/satchels",
+						"SUBTITLE1": "Backpacks",
+						"SUBTITLE6": "Totes",
+						"LINK6": "/women/handbags/totes",
+						"SUBTITLE4": "Satchels",
+						"SUBTITLE5": "Shoulder Bags",
+						"TITLE1": "HANDBAGS"
+					},
+					"BANNER3": {
+						"CTA": {
+							"TEXT": "SHOP NOW"
+						},
+						"IMAGE": "/images/home/carousel/carousel-3-dresses3.jpg",
+						"MOBILEIMAGE": "/images/home/carousel/",
+						"LINK": "/women/apparel/dresses",
+						"TITLE": "Glamorous Holiday Dressing",
+						"SUBTITLE": "Talk about making a fashion statement"
+					},
+					"SITEMAP2": {
+						"LINK1": "/women/shoes/booties",
+						"LINK3": "/women/shoes/flats-and-loafers",
+						"SUBTITLE2": "Boots",
+						"LINK2": "/women/shoes/boots",
+						"SUBTITLE3": "Flats & Loafers",
+						"LINK5": "/women/shoes/sneakers",
+						"MAINLINK1": "/women/shoes",
+						"LINK4": "/women/shoes/pumps",
+						"SUBTITLE1": "Booties",
+						"SUBTITLE6": "Wedges",
+						"LINK6": "/women/shoes/wedges",
+						"SUBTITLE4": "Pumps",
+						"SUBTITLE5": "Sneakers",
+						"TITLE1": "SHOES"
+					},
+					"BANNER2": {
+						"CTA": {
+							"TEXT": "SHOP NOW"
+						},
+						"IMAGE": "/images/home/carousel/carousel-2-eileen-fisher.jpg",
+						"MOBILEIMAGE": "/images/home/carousel/",
+						"LINK": "/women/designers/featured-designers/eileen-fisher",
+						"TITLE": "Eileen Fisher",
+						"SUBTITLE": "Cozy knits to keep you warm this winter"
+					},
+					"SITEMAP1": {
+						"LINK1": "/women/apparel/activewear",
+						"LINK3": "/women/apparel/dresses",
+						"SUBTITLE2": "Coats",
+						"LINK2": "/women/apparel/coats",
+						"SUBTITLE3": "Dresses",
+						"LINK5": "/women/apparel/sweaters",
+						"MAINLINK1": "/women/apparel",
+						"LINK4": "/women/apparel/jeans",
+						"MAINLINK2": "/women/shoes",
+						"SUBTITLE1": "Activewear",
+						"SUBTITLE6": "Tops",
+						"LINK6": "/women/apparel/tops",
+						"SUBTITLE4": "Jeans",
+						"SUBTITLE5": "Sweaters",
+						"TITLE1": "APPAREL"
+					},
+					"MAINFEATUREPRODUCT2": {
+						"CTA": {
+							"TEXT": "BUY NOW"
+						},
+						"DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+						"TITLE": "PROMOTION",
+						"SUBTITLE": "50% OFF"
+					},
+					"MAINFEATUREPRODUCT": {
+						"CTA": {
+							"TEXT": "BUY NOW"
+						},
+						"DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+						"TITLE": "PROMOTION",
+						"SUBTITLE": "60% OFF ACCESSORIES"
+					},
+					"TST1": "TST12",
+					"FEATURED": {
+						"COLLECTION1": {
+							"PRODUCT2": {
+								"IMAGE": "/images/home/ranking/02-jimmy-choo-boots.jpg",
+								"LINK": "/pdp/jimmy-choo-autumn-velvet-bootie-green-9b-39eu",
+								"TITLE": "Jimmy Choo"
+							},
+							"PRODUCT1": {
+								"IMAGE": "/images/home/ranking/01-self-portrait-black-crepe-dress.jpg",
+								"LINK": "/pdp/selfportrait-asymmetric-belted-fauxwrap-crepe-dress-w-cutouts-black-0",
+								"TITLE": "Self-Portrait"
+							},
+							"PRODUCT4": {
+								"IMAGE": "/images/home/ranking/04-the-row-wool-blend-jacket.jpg",
+								"LINK": "/pdp/the-row-monire-belted-woolblend-jacket-sand-xsmall",
+								"TITLE": "The Row"
+							},
+							"DESCRIPTION": "Top Sellers",
+							"PRODUCT3": {
+								"IMAGE": "/images/home/ranking/03-stella-macartney-bag.jpg",
+								"LINK": "/pdp/stella-mccartney-falabella-small-tote-bag-black",
+								"TITLE": "Stella McCartney"
+							},
+							"PRODUCT6": {
+								"IMAGE": "/images/home/ranking/06-wolverine-chelsea-boots.jpg",
+								"LINK": "/pdp/wolverine-montague-1000-mile-chelsea-boot-brown-brown-85d",
+								"TITLE": "Wolverine"
+							},
+							"PRODUCT5": {
+								"IMAGE": "/images/home/ranking/05-manolo-white-pumps.jpg",
+								"LINK": "/pdp/manolo-blahnik-swan-embellished-satin-pump-white-white-41-eu-11b-us",
+								"TITLE": "Manolo Blahnik"
+							},
+							"PRODUCT10": {
+								"IMAGE": "/images/home/ranking/10-fendi-nylon-duffle-bag.jpg",
+								"LINK": "/pdp/fendi-vocabulary-nylon-and-leather-travel-duffle-bag-black",
+								"TITLE": "Fendi"
+							},
+							"PRODUCT8": {
+								"IMAGE": "/images/home/ranking/08-true-religion-western-shirt.jpg",
+								"LINK": "/pdp/true-religion-ryan-western-shirt-eelm-indigo-bleed-3xlarge",
+								"TITLE": "True Religion"
+							},
+							"PRODUCT7": {
+								"IMAGE": "/images/home/ranking/07-moncler-puffer-jacket.jpg",
+								"LINK": "/pdp/moncler-harry-shiny-puffer-jacket-w-removable-hood-black-5",
+								"TITLE": "Moncler"
+							},
+							"TITLE": "SALES RANKING",
+							"PRODUCT9": {
+								"IMAGE": "/images/home/ranking/09-buscemi-hightop-leather-sneakers.jpg",
+								"LINK": "/pdp/buscemi-100mm-hightop-leather-sneaker-with-padlock-black-black-11d",
+								"TITLE": "Buscemi"
+							}
+						},
+						"NEW": {
+							"DESCRIPTION": "For every product sold, we're proud to donate $5 towards the ACLU",
+							"TITLE": "NEW |",
+							"SUBTITLE": "ROSE COLLECTION"
+						},
+						"COLLECTION2": {
+							"DESCRIPTION": "What's new from the season's top designers",
+							"TITLE": "NEW ARRIVALS"
+						}
+					}
+				},
+				"LABEL": {
+					"FILTER": {
+						"SIZE": "Size",
+						"COLOUR": "Color",
+						"BRAND": "Price",
+						"PRIZE": "Prize"
+					}
+				},
+				"BASKET": {
+					"NOTETITLE": "Note:",
+					"PRICE": "Price",
+					"PICTURE": "Image",
+					"ADDTOBASKET": "ADD TO CART",
+					"CTA": {
+						"CONTINUE": {
+							"TITLE": "CONTINUE SHOPPING",
+							"URL": "/"
+						}
+					},
+					"RECOMMENDED": {
+						"TITLE": "PEOPLE ALSO BOUGHT"
+					},
+					"SUBTOTAL": "Subtotal",
+					"SUMMARY": {
+						"DESCRIPTION": "Enjoy free shipping on all orders ¥20,000 or more (Details). T&C's & Privacy Policy apply.",
+						"CHECKOUT": {
+							"CTA": {
+								"TEXT": "Continue to checkout"
+							}
+						},
+						"TERMS": "Terms and Conditions",
+						"TOTALS": {
+							"TOTAL": "TOTAL",
+							"PRODUCT": "Subtotal"
+						},
+						"FOOTER": {
+							"TEXT": {},
+							"TITLE": "WE ACCEPT: "
+						},
+						"TAX": "Tax",
+						"TITLE": "Order Summary",
+						"VOUCHER": {
+							"TEXT": "Enter promo code"
+						},
+						"CHECKOUTEX": {
+							"CTA": {
+								"TEXT": "CHECKOUT WITH"
+							},
+							"ORTEXT": "Or"
+						},
+						"SHIPPING": "Shipping",
+						"DISCOUNT": "Discount"
+					},
+					"DESCRIPTION": "ITEM",
+					"NOTE": "Availability and pricing for items in Shopping Bag are not guaranteed until checkout is complete",
+					"QTY": "Quantity",
+					"FAVORITES": {
+						"TITLE": "RECENTLY VIEWED"
+					},
+					"REMOVE": "Remove",
+					"TITLE": "Shopping Bag",
+					"TITLEEMPTY": "YOUR SHOPPING BAG IS EMPTY"
+				},
+				"MYACCOUNT": {
+					"REGISTER": {
+						"PAGETITLE": "Account Create"
+					},
+					"VERIYCOMPLETE": {
+						"PAGETITLE": "Verify Complete"
+					},
+					"CONTACT": {
+						"PHONE": "1-866-709-5677",
+						"EMAIL": "support@localised.com"
+					},
+					"CONFIRMPASSWORD": "CONFIRM PASSWORD",
+					"CREATE": {
+						"REGISTER": {
+							"CTA": "Register Now"
+						},
+						"TELEPHONE": "TELEPHONE",
+						"LAST": "LAST NAME",
+						"LEGAL": "By registering your details you agree to our Terms and Conditions and privacy and cookie policy.",
+						"MAILING": "Join our mailing list for early Sale access plus new arrivals, trends and promotions via email and post.",
+						"TITLE": "CREATE AN ACCOUNT",
+						"FIRST": "FIRST NAME"
+					},
+					"ASSISTANCE": "Contact us if you need further assistance.",
+					"EMAILADDRESS": "EMAIL ADDRESS",
+					"SIGNIN": {
+						"CTA": "Sign In",
+						"PAGETITLE": "Account Login",
+						"CREATE": {
+							"CTA": "Create Account",
+							"TITLE": "OR CREATE AN ACCOUNT",
+							"DESC": "Create an account to receive exclusive offers and news on the latest promotions."
+						},
+						"TITLE": "Sign In To Continue"
+					},
+					"RESET": {
+						"RECEIVED": "Did you receive the email?",
+						"CAPTCHA": {
+							"TITLE": "CAPTCHA",
+							"DESC": "ENTER CHARACTERS SHOWN"
+						},
+						"CTA": "CONTINUE",
+						"LAST": {
+							"TITLE": "THANKS! JUST ONE LAST STEP",
+							"DESC": "We've sent a verification email to you, just follow the link inside the email to complete your sign-up."
+						},
+						"TITLE": "RESET MY PASSWORD",
+						"RESEND": "Re-Send Verification",
+						"DETAIL": "If the email address you entered is associated with a customer account in our records, you will receive and email from us with instructions for resetting your password. If you don't receive this email, please check your junk email folder or contact our customer service team for further assistance.",
+						"DESC": "Enter the email address associated with your account, then click Continue. We'll email you a link to a page where you can create a new password."
+					},
+					"COMMPREF": {
+						"MANAGEYOURSUBSCRIPTIONS": {
+							"DES": "Receive the latest arrivals from your favorite designers every week, plus updates on pieces from the magazine or Lookbook that you are interested in.",
+							"TIT": "MANAGE YOUR SUBSCRIPTIONS"
+						},
+						"CTA": {
+							"LABEL": "SAVE CHANGES"
+						},
+						"PREFEREDEMAIL": {
+							"FORMATHTML": {},
+							"INPUT": {
+								"LABEL": {}
+							},
+							"FORMATPLAINTE": {},
+							"FORMATLABEL": {}
+						},
+						"MANYOURSUBS": {
+							"TITLE": "MANAGE YOUR SUBSCRIPTIONS"
+						},
+						"DESCRIPTION": "We'd like to stay in touch, but only in ways you find useful.",
+						"EMAILFREQ": {
+							"ALL": "ALL EMAILS",
+							"WEEKLY": "WEEKLY",
+							"UNSUB": "UNSUBSCRIBE FROM ALL EMAILS",
+							"TITLE": "EMAIL FREQUENCY",
+							"MONTHLY": "MONTHLY"
+						},
+						"EMAILPREF": {
+							"TITLE": "MANAGE EMAIL PREFERENCES"
+						},
+						"CATEGORIESOFINTEREST": {
+							"WOMEN": "WOMEN",
+							"TITLE": "WHAT CATEGORIES ARE YOU IN INTERESTED IN?",
+							"MAN": "MEN",
+							"BOTH": "BOTH"
+						},
+						"CHANGE": {
+							"EDIT": "EDIT",
+							"TITLE": "CHANGE EMAIL ADDRESS"
+						},
+						"TITLE": "Communication Preferences",
+						"SENTEMAILS": {
+							"SENTEMAILFORMATT": {},
+							"COMMON": "Emails are currently being sent to"
+						}
+					},
+					"VERIY": {
+						"PAGETITLE": "Verify your Account"
+					},
+					"ORDER": {
+						"TOTAL": "ORDER TOTAL",
+						"PAYMENT": "PAYMENT METHOD",
+						"TRACKLINK": "TRACK ORDER",
+						"CHARGES": "CHARGES",
+						"TAX": "TAX",
+						"ORDEREDBY": "ORDERED BY",
+						"SHIPPING": "SHIPPING METHOD",
+						"PURCHASE": "PURCHASE",
+						"DATE": "ORDER DATE",
+						"ITEM": {
+							"PRICE": "PRICE",
+							"QTY": "QUANTITY",
+							"DESC": "ITEM"
+						},
+						"STATUS": "STATUS",
+						"SHIPPEDTO": "SHIPPED TO",
+						"TITLE": "Order",
+						"SHIPPINGTAX": "SHIPPING"
+					},
+					"NEWPWD": {
+						"CTA": "UPDATE PASSWORD",
+						"NEW": "NEW PASSWORD",
+						"PAGETITLE": "Reset your Password",
+						"TITLE": "PLEASE CREATE A NEW PASSWORD",
+						"CONF": "CONFIRM NEW PASSWORD",
+						"DESC": "Enter address associated with this"
+					},
+					"PASSWORD": "PASSWORD",
+					"ORDERHISTORY": {
+						"ORDERTOTAL": {
+							"TITLE": "ORDER TOTAL"
+						},
+						"ORDERVIEW": "VIEW ORDER",
+						"PAGETITLE": "Order History",
+						"ORDERDATE": {
+							"TITLE": "ORDER DATE"
+						},
+						"DESCRIPTION": "Follow your purchases, check the delivery status iof your orders, access the Return Form and view refund information.",
+						"ORDERNUMBER": {
+							"TITLE": "ORDER NUMBER"
+						},
+						"ORDERSTATUS": {
+							"DESCRIPTION": {},
+							"TITLE": "STATUS"
+						},
+						"TITLE": "Order History",
+						"ORDERTRACK": "TRACK ORDER"
+					},
+					"RECOVER": {
+						"PAGETITLE": "Recover your Password"
+					},
+					"KEEPLOGGEDIN": {
+						"OPTIN": "Keep me logged in"
+					},
+					"ORDERDETAILS": {
+						"PAGETITLE": "Order Details"
+					},
+					"RECOVERPASSWORD": {
+						"LINK": "Recover password"
+					},
+					"MENU": {
+						"ORDHIST": "ORDER HISTORY",
+						"TITLE": "MY ACCOUNT",
+						"SETTINGS": "ACCOUNT SETTINGS",
+						"COMMPREF": "COMMUNICATION PREFERENCES"
+					},
+					"PREFS": {
+						"PAGETITLE": "Account Preferences"
+					}
+				},
+				"ABOUTUS": {
+					"TITLE": "About Us"
+				},
+				"PDP": {
+					"PRICE": "PRICE",
+					"QUANTITY": "QUANTITY",
+					"SIZE": "SIZE",
+					"SIZEIMAGE": "SIZE CHART",
+					"STYLE": {
+						"TITLE": "Style"
+					},
+					"PRODUCTINFO": "ITEM DETAILS",
+					"SHIPPINGDETAILS": "Free global express shipping with your ¥20,000+ purchase. <u>Learn More</u>",
+					"INFO": {
+						"CATEGORY": "CATEGORY",
+						"ITEMNO": "ITEM NO.",
+						"SHIPPINGCONTENT": "Free Shipping to Japan. Order ¥20,000+.",
+						"SIZES": "SIZES",
+						"GENDER": "GENDER",
+						"MATERIALS": "MATERIALS",
+						"MALE": "Male",
+						"SHIPPING": "SHIPPING",
+						"FEMALE": "Female"
+					},
+					"DESCRIPTION": {
+						"TEXT": {},
+						"TITLE": {
+							"TEXT": "PRODUCT DESCRIPTION"
+						}
+					},
+					"COLOR": "COLOR",
+					"DELIVERYAND RETURN": {
+						"DESCRIPTION": {
+							"TEXT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+						},
+						"TITLE": {
+							"TEXT": "DELIVERY & RETURNS"
+						}
+					},
+					"DELIVERYANDRETURN": {
+						"DESCRIPTION": {
+							"TEXT": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+						},
+						"TITLE": {
+							"TEXT": "DELIVERY AND RETURNS"
+						}
+					},
+					"SIZEANDFIT": {
+						"TEXT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.",
+						"TITLE": {
+							"TEXT": "SIZE & FIT"
+						}
+					},
+					"BTN": {
+						"NOTAVAILABLE": "NOT AVAILABLE",
+						"PREORDER": "PRE-ORDER",
+						"LOWSTOCK": "LOW STOCK",
+						"BUY": "ADD TO SHOPPING BAG",
+						"DISCONTINUED": "DISCONTINUED",
+						"OUTOFSTOCK": "OUT OF STOCK"
+					},
+					"ITEMNUMBER": "ITEM NUMBER",
+					"SIZEGUIDE": {
+						"TEXT": "SIZE GUIDE"
+					}
+				},
+				"SEARCHBAR": {
+					"DEFAULT": "Search"
+				},
+				"SITE": {
+					"NAME": "Site Name NN"
+				},
+				"BREADCRUMB": {
+					"BACK": "BACK"
+				},
+				"PRIVACY": {
+					"TITLE": "Privacy Policy"
+				},
+				"VARIANTS": {
+					"MORE": {
+						"COLORS": "More colors available"
+					}
+				},
+				"SEARCH": {
+					"TITLE": "Search"
+				},
+				"PRICINGSTRATEGY": {
+					"ALLINCLUSIVE": "(tax incl.)"
+				},
+				"MAINMENU": {
+					"ITEM2": "Men",
+					"ITEM1": "Women",
+					"SUBLISTING": "Generic Sublisting Page"
+				},
+				"PROMOTOP": {
+					"TEXT": "FREE EXPRESS SHIPPING TO JAPAN WITH YOUR ¥20,000 PURCHASE",
+					"TITLE": {}
+				},
+				"PRODUCTPAGE": {
+					"TITLE": "Product Details"
+				},
+				"FOOTER": {
+					"NEIMAN": {
+						"EMAIL": "jpsupport@neimanmarcus.com"
+					},
+					"FORM": {
+						"SIGNUP": "SIGN UP TO HEAR IT FIRST"
+					},
+					"LINK1": {
+						"SUBLINK1": {
+							"LINK": "/about-us",
+							"TEXT": "Company Information"
+						},
+						"LINK": "/about-us",
+						"TEXT": "ABOUT US",
+						"SUBLINK2": {
+							"LINK": "/about-us",
+							"TEXT": "Privacy Policy"
+						},
+						"SUBLINK3": {
+							"LINK": "/about-us",
+							"TEXT": "Terms & Conditions"
+						}
+					},
+					"BUSINESSHOURS": "Monday - Friday 9am - 5pm",
+					"CONTACTUS": "CONTACT US",
+					"LINK3": {
+						"SUBLINK1": {
+							"LINK": "/about-us",
+							"TEXT": "Monday - Friday 9am - 5pm"
+						},
+						"LINK": "/about-us",
+						"TEXT": "CONTACT US",
+						"SUBLINK2": {
+							"LINK": "/about-us",
+							"TEXT": "jpsupport@neimanmarcus.com"
+						}
+					},
+					"LINK2": {
+						"SUBLINK1": {
+							"LINK": "/about-us",
+							"TEXT": "Contact Us"
+						},
+						"LINK": "/about-us",
+						"TEXT": "SUPPORT",
+						"SUBLINK2": {
+							"LINK": "/about-us",
+							"TEXT": "Delivery & Returns"
+						},
+						"SUBLINK3": {
+							"LINK": "/about-us",
+							"TEXT": "FAQs"
+						}
+					},
+					"COPY": {
+						"NEIMAN": {
+							"TEXTLINE1": "This site is operated by Localised Inc., an authorised reseller of goods sold by The Neiman Marcus Group, Inc."
+						},
+						"TEXTLINE1": "This site is operated by Localised, Inc., an authorised reseller of goods sold by Desilacol.",
+						"TEXTLINE2": "© Localised Inc. and its licensors, 2017. All rights reserved.",
+						"LINK": {
+							"HREF": "/about-us",
+							"TEXT": "Learn More."
+						}
+					},
+					"PAGE": {
+						"CONTACT": "Contact Us",
+						"COOKIES": {
+							"LINK": "/about-us",
+							"TEXT": "WEB.FOOTER.PAGE.COOKIES.TEXT"
+						},
+						"FAQ": "FAQs",
+						"INVESTOR": {
+							"LINK": "/about-us",
+							"TEXT": "WEB.FOOTER.PAGE.INVESTOR.TEXT"
+						},
+						"CUSTOMER": "SUPPORT",
+						"ABOUT": {
+							"LINK": "/about-us",
+							"TEXT": "ABOUT"
+						},
+						"DELIVERY": "Delivery & Returns",
+						"HISTORY": {
+							"LINK": "/about-us",
+							"TEXT": "WEB.FOOTER.PAGE.HISTORY.TEXT"
+						}
+					},
+					"CS": {
+						"SUPPORT": {
+							"DETAIL": "Help is always available"
+						},
+						"DELOFFER": "Free delivery on orders over $50",
+						"DELIVERY": "DELIVERY"
+					},
+					"CSDELOFFER": "Free delivery on orders over $50",
+					"SOCIAL": {
+						"CONNECT": "CONNECT"
+					},
+					"CSSUPPORT": {
+						"TITLE": "SUPPORT",
+						"DETAIL": "Help is always available"
+					},
+					"SECURE": "SECURE SHOPPING"
+				},
+				"GENERIC404": {
+					"TITLE": "Page not Found"
+				},
+				"MINIBASKET": {
+					"CTA": {
+						"TEXTEMPTY": "GO TO SHOPPING BAG",
+						"TEXT": "Continue with Checkout"
+					},
+					"SUMMARY": {
+						"FOOTER": "Free Shipping to Japan. Order ¥20,000+."
+					},
+					"TITLE": "My Shopping Bag"
+				},
+				"SEARCHPAGE": {
+					"RESULTS": {
+						"DESKTOP": {
+							"TITLE": "Search results for \"{{q}}\""
+						},
+						"NORESULTS": {
+							"TITLE": "No results for \"{{q}}\""
+						},
+						"RETRY": "TRY A NEW SEARCH",
+						"BODY": "<b> HELPFUL HINTS </b><br>Double check spelling<br>Use fewer words<br>Try seaching for a less specific term",
+						"SUBTITLE": "Sorry, we couldn't find what you were looking for.",
+						"MOBILE": {
+							"TITLE": "Results for \"{{q}}\""
+						}
+					},
+					"NORESULTS": {
+						"HINT1": "Double check spelling",
+						"HINT2": "Use fewer words",
+						"HINT3": "Try seaching for a less specific term",
+						"HINT": {
+							"TITLE": "Helpful hints"
+						}
+					}
+				},
+				"CS": {
+					"LINE": "Line: Localised Support",
+					"PHONE": "Tel: +1.972.556.6044",
+					"EMAIL": "Email: jpsupport@neimanmarcus.com"
+				},
+				"MAINSUBMENU1": {
+					"ITEM2": "Shoes",
+					"ITEM1": "Clothing",
+					"ITEM6": {},
+					"ITEM5": "Sale",
+					"ITEM4": "Accessories",
+					"ITEM3": "Handbags",
+					"ITEM8": {},
+					"ITEM7": {}
+				},
+				"RECENTLYVIEWED": {
+					"TITLE": "RECENTLY VIEWED"
+				},
+				"MORE": {
+					"COLORS": "MORE"
+				},
+				"TEST": {
+					"REMOVAL": "test removal us"
+				},
+				"DESILACOL": {
+					"HOMEPAGE": {
+						"NEW": {
+							"DESCRIPTION": "For every product sold, we're proud to donate $5 towards the ACLU"
+						}
+					}
+				},
+				"MAINSUBMENU2": {
+					"ITEM2": "Shoes",
+					"ITEM1": "Clothing",
+					"ITEM6": {},
+					"ITEM5": {},
+					"ITEM4": "Sale",
+					"ITEM3": "Accessories",
+					"ITEM8": {},
+					"ITEM7": {}
+				},
+				"LOCALESELECTOR": {
+					"LANGUAGESELECTOR": "Select your language:",
+					"CTA": "APPLY",
+					"COUNTRYSELECTOR": "Select country:",
+					"DESCRIPTION": "We currently ship to the below country",
+					"TITLE": "Select Your Country"
+				},
+				"REVIEW": {
+					"CTA": "PLACE ORDER",
+					"PAYMENT": {
+						"EDIT": "EDIT",
+						"TITLE": "PAYMENT METHOD"
+					},
+					"BILLING": {
+						"EDIT": "EDIT"
+					},
+					"ADDRESS": {
+						"BILLING": "BILLING ADDRESS",
+						"SHIPPING": "SHIPPING ADDRESS"
+					},
+					"LINK": {
+						"BACK": "RETURN TO PAYMENT DETAILS"
+					},
+					"TITLE": "REVIEW AND CONFIRM",
+					"CTADISCLAIMER": {
+						"TEXT": "By Clicking \"<b>Place Order</b>\" you agree to <u>Terms and Conditions</u> of Localised, Inc., an authorized reseller for Neiman Marcus, and your payment will be charged by Localised."
+					},
+					"SHIPPING": "SHIPPING METHOD",
+					"DELIVERY": {
+						"EDIT": "EDIT"
+					}
+				},
+				"PAYMENTPAGE": {
+					"BILLING": {
+						"CANCELEDIT": "CANCEL",
+						"SAVE": "APPLY"
+					},
+					"ADDRESS": {
+						"SAME": "Use my shipping address",
+						"CANCELEDIT": "CANCEL",
+						"EDITMETHOD": "EDIT SHIPPING METHOD",
+						"EDIT": "EDIT",
+						"SAVE": "APPLY",
+						"EDITSHIPPING": "EDIT SHIPPING ADDRESS"
+					},
+					"SHIPPINGMETHOD": {
+						"CANCEL": "CANCEL",
+						"EDIT": "EDIT",
+						"SAVE": "APPLY"
+					},
+					"REVIEW": {
+						"SHIPPINGMETHOD": "SHIPPING METHOD",
+						"SHIPPINGADDRESS": "YOUR SHIPPING ADDRESS"
+					},
+					"DELIVERY": {
+						"CANCELEDIT": "CANCEL",
+						"SAVE": "APPLY"
+					}
+				},
+				"HOME": "HOME"
+			}
+		}
+	},
+	"navigations": {
+		"ja": {
+			"TOPMENU": {
+				"navItems": [{
+					"path": "",
+					"type": "ROOT",
+					"sidebar": false,
+					"navItems": [{
+						"path": "",
+						"type": "CATEGORY",
+						"label": "Women",
+						"params": "CATEGORY=WOMEN",
+						"sidebar": true,
+						"navItems": [{
+							"path": "",
+							"type": "CATEGORY",
+							"label": "Shoes",
+							"params": "CATEGORY=W_SHOES",
+							"sidebar": true,
+							"navItems": [{
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Sandals",
+								"params": "CATEGORY=W_SANDALS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Boots",
+								"params": "CATEGORY=W_BOOTS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Flats",
+								"params": "CATEGORY=W_FLATS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Pumps",
+								"params": "CATEGORY=W_PUMPS",
+								"sidebar": true,
+								"navItems": []
+							}]
+						}, {
+							"path": "",
+							"type": "CATEGORY",
+							"label": "Jewelry & Watches",
+							"params": "CATEGORY=W_JEWELRY",
+							"sidebar": true,
+							"navItems": [{
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Rings",
+								"params": "CATEGORY=W_RINGS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Bracelets",
+								"params": "CATEGORY=W_BRACELETS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Earrings",
+								"params": "CATEGORY=W_EARRINGS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Pendants & Necklaces",
+								"params": "CATEGORY=W_NECKLACES",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Pins And Brooches",
+								"params": "CATEGORY=W_PINS",
+								"sidebar": true,
+								"navItems": []
+							}]
+						}, {
+							"path": "",
+							"type": "CATEGORY",
+							"label": "Clothing",
+							"params": "CATEGORY=W_CLOTHING",
+							"sidebar": true,
+							"navItems": [{
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Denim",
+								"params": "CATEGORY=W_DENIM",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Uniforms",
+								"params": "CATEGORY=W_UNIFORMS",
+								"sidebar": true,
+								"navItems": [{
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Sports Uniforms",
+									"params": "CATEGORY=W_SPORTS_UNIFORMS",
+									"sidebar": true,
+									"navItems": []
+								}]
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Accessories",
+								"params": "CATEGORY=W_ACCESSORIES",
+								"sidebar": true,
+								"navItems": [{
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Hats",
+									"params": "CATEGORY=W_HATS",
+									"sidebar": true,
+									"navItems": []
+								}, {
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Scarves & Shawls",
+									"params": "CATEGORY=W_SCARVES",
+									"sidebar": true,
+									"navItems": []
+								}, {
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Sunglasses",
+									"params": "CATEGORY=W_SUNGLASSES",
+									"sidebar": true,
+									"navItems": []
+								}, {
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Belts",
+									"params": "CATEGORY=W_BELTS",
+									"sidebar": true,
+									"navItems": []
+								}]
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Dresses",
+								"params": "CATEGORY=W_DRESS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Swimwear",
+								"params": "CATEGORY=W_SWIMWEAR",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Pants",
+								"params": "CATEGORY=W_PANTS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Underwear & Socks",
+								"params": "CATEGORY=W_UNDERWEAR",
+								"sidebar": true,
+								"navItems": [{
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Shapewear",
+									"params": "CATEGORY=W_SHAPEWEAR",
+									"sidebar": true,
+									"navItems": []
+								}, {
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Hoisery",
+									"params": "CATEGORY=W_HOSIERY",
+									"sidebar": true,
+									"navItems": []
+								}]
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Sweaters & Sweatshirts",
+								"params": "CATEGORY=W_SWEATERS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Shorts",
+								"params": "CATEGORY=W_SHORTS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Outerwear",
+								"params": "CATEGORY=W_OUTERWEAR",
+								"sidebar": true,
+								"navItems": [{
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Coats & Jackets",
+									"params": "CATEGORY=W_COATS",
+									"sidebar": true,
+									"navItems": []
+								}, {
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Vests",
+									"params": "CATEGORY=W_VESTS",
+									"sidebar": true,
+									"navItems": []
+								}]
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Skirts",
+								"params": "CATEGORY=W_SKIRTS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Shirts & Tops",
+								"params": "CATEGORY=W_SHIRTS",
+								"sidebar": true,
+								"navItems": []
+							}]
+						}, {
+							"path": "",
+							"type": "CATEGORY",
+							"label": "Bags",
+							"params": "CATEGORY=W_BAGS",
+							"sidebar": true,
+							"navItems": [{
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Clutches & Mini Bags",
+								"params": "CATEGORY=W_CLUTCHES",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Handbags",
+								"params": "CATEGORY=W_HANDBAGS",
+								"sidebar": true,
+								"navItems": []
+							}]
+						}]
+					}]
+				}]
+			}
+		},
+		"en": {
+			"TOPMENU": {
+				"navItems": [{
+					"path": "",
+					"type": "ROOT",
+					"sidebar": false,
+					"navItems": [{
+						"path": "",
+						"type": "CATEGORY",
+						"label": "Women",
+						"params": "CATEGORY=WOMEN",
+						"sidebar": true,
+						"navItems": [{
+							"path": "",
+							"type": "CATEGORY",
+							"label": "Shoes",
+							"params": "CATEGORY=W_SHOES",
+							"sidebar": true,
+							"navItems": [{
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Sandals",
+								"params": "CATEGORY=W_SANDALS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Boots",
+								"params": "CATEGORY=W_BOOTS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Flats",
+								"params": "CATEGORY=W_FLATS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Pumps",
+								"params": "CATEGORY=W_PUMPS",
+								"sidebar": true,
+								"navItems": []
+							}]
+						}, {
+							"path": "",
+							"type": "CATEGORY",
+							"label": "Jewelry & Watches",
+							"params": "CATEGORY=W_JEWELRY",
+							"sidebar": true,
+							"navItems": [{
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Rings",
+								"params": "CATEGORY=W_RINGS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Bracelets",
+								"params": "CATEGORY=W_BRACELETS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Earrings",
+								"params": "CATEGORY=W_EARRINGS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Pendants & Necklaces",
+								"params": "CATEGORY=W_NECKLACES",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Pins And Brooches",
+								"params": "CATEGORY=W_PINS",
+								"sidebar": true,
+								"navItems": []
+							}]
+						}, {
+							"path": "",
+							"type": "CATEGORY",
+							"label": "Clothing",
+							"params": "CATEGORY=W_CLOTHING",
+							"sidebar": true,
+							"navItems": [{
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Denim",
+								"params": "CATEGORY=W_DENIM",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Uniforms",
+								"params": "CATEGORY=W_UNIFORMS",
+								"sidebar": true,
+								"navItems": [{
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Sports Uniforms",
+									"params": "CATEGORY=W_SPORTS_UNIFORMS",
+									"sidebar": true,
+									"navItems": []
+								}]
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Accessories",
+								"params": "CATEGORY=W_ACCESSORIES",
+								"sidebar": true,
+								"navItems": [{
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Hats",
+									"params": "CATEGORY=W_HATS",
+									"sidebar": true,
+									"navItems": []
+								}, {
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Scarves & Shawls",
+									"params": "CATEGORY=W_SCARVES",
+									"sidebar": true,
+									"navItems": []
+								}, {
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Sunglasses",
+									"params": "CATEGORY=W_SUNGLASSES",
+									"sidebar": true,
+									"navItems": []
+								}, {
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Belts",
+									"params": "CATEGORY=W_BELTS",
+									"sidebar": true,
+									"navItems": []
+								}]
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Dresses",
+								"params": "CATEGORY=W_DRESS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Swimwear",
+								"params": "CATEGORY=W_SWIMWEAR",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Pants",
+								"params": "CATEGORY=W_PANTS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Underwear & Socks",
+								"params": "CATEGORY=W_UNDERWEAR",
+								"sidebar": true,
+								"navItems": [{
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Shapewear",
+									"params": "CATEGORY=W_SHAPEWEAR",
+									"sidebar": true,
+									"navItems": []
+								}, {
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Hoisery",
+									"params": "CATEGORY=W_HOSIERY",
+									"sidebar": true,
+									"navItems": []
+								}]
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Sweaters & Sweatshirts",
+								"params": "CATEGORY=W_SWEATERS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Shorts",
+								"params": "CATEGORY=W_SHORTS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Outerwear",
+								"params": "CATEGORY=W_OUTERWEAR",
+								"sidebar": true,
+								"navItems": [{
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Coats & Jackets",
+									"params": "CATEGORY=W_COATS",
+									"sidebar": true,
+									"navItems": []
+								}, {
+									"path": "",
+									"type": "CATEGORY",
+									"label": "Vests",
+									"params": "CATEGORY=W_VESTS",
+									"sidebar": true,
+									"navItems": []
+								}]
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Skirts",
+								"params": "CATEGORY=W_SKIRTS",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Shirts & Tops",
+								"params": "CATEGORY=W_SHIRTS",
+								"sidebar": true,
+								"navItems": []
+							}]
+						}, {
+							"path": "",
+							"type": "CATEGORY",
+							"label": "Bags",
+							"params": "CATEGORY=W_BAGS",
+							"sidebar": true,
+							"navItems": [{
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Clutches & Mini Bags",
+								"params": "CATEGORY=W_CLUTCHES",
+								"sidebar": true,
+								"navItems": []
+							}, {
+								"path": "",
+								"type": "CATEGORY",
+								"label": "Handbags",
+								"params": "CATEGORY=W_HANDBAGS",
+								"sidebar": true,
+								"navItems": []
+							}]
+						}]
+					}]
+				}]
+			}
+		}
+	}
+}]
