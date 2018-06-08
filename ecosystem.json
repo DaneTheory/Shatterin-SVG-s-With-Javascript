@@ -1,0 +1,8 @@
+{
+    "apps": [
+        {
+            "name": "shatterin-svgs-with-javascript",
+            "script": "gulp"
+        }
+    ]
+}
